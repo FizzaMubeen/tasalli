@@ -4,6 +4,7 @@ import { TodayScreen } from './screens/TodayScreen';
 import { TalkScreen } from './screens/TalkScreen';
 import { DuasScreen } from './screens/DuasScreen';
 import { YouScreen } from './screens/YouScreen';
+import { HadithScreen } from './screens/HadithScreen';
 import { CrisisModal } from './components/CrisisModal';
 import { CitationDetailSheet } from './components/CitationDetailSheet';
 import { AdhkarPlayerModal } from './components/AdhkarPlayerModal';
@@ -16,7 +17,7 @@ const isNativePlatform = Capacitor.isNativePlatform()
   || new URLSearchParams(window.location.search).get('native') === '1';
 
 export const App: React.FC = () => {
-  const [activeTab, setActiveTab] = useState<'today' | 'talk' | 'duas' | 'you'>('today');
+  const [activeTab, setActiveTab] = useState<'today' | 'talk' | 'duas' | 'hadith' | 'you'>('today');
   const [profile, setProfile] = useState<UserProfile>(() => getStoredProfile());
   const [consents, setConsents] = useState<UserConsents>(() => getStoredConsents());
   const [isOnboarded, setIsOnboarded] = useState<boolean>(() => hasUserOnboarded());
@@ -312,6 +313,8 @@ export const App: React.FC = () => {
             />
           )}
 
+          {activeTab === 'hadith' && <HadithScreen />}
+
           {activeTab === 'you' && (
             <YouScreen
               profile={profile}
@@ -435,7 +438,35 @@ export const App: React.FC = () => {
             </span>
           </button>
 
-          {/* Tab 4: You */}
+          {/* Tab 4: Hadith Library */}
+          <button
+            onClick={() => setActiveTab('hadith')}
+            style={{
+              flex: 1,
+              background: 'none',
+              border: 'none',
+              display: 'flex',
+              flexDirection: 'column',
+              alignItems: 'center',
+              justifyContent: 'center',
+              gap: '3px',
+              color: activeTab === 'hadith' ? 'var(--primary)' : 'var(--on-surface-variant)',
+              cursor: 'pointer',
+              padding: '4px 0'
+            }}
+          >
+            <span
+              className={`material-symbols-outlined ${activeTab === 'hadith' ? 'fill' : ''}`}
+              style={{ fontSize: '24px' }}
+            >
+              auto_stories
+            </span>
+            <span style={{ fontSize: '12px', fontWeight: activeTab === 'hadith' ? 600 : 500 }}>
+              Hadith
+            </span>
+          </button>
+
+          {/* Tab 5: You */}
           <button
             onClick={() => setActiveTab('you')}
             style={{

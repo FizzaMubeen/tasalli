@@ -1,0 +1,1057 @@
+{
+ "note": "Curated situation lines and background stories for the Hadith Library. overlays attach to verified entries in AI Model/hadith-500-tasalli.json by sunnah.com key; additions are English meanings pending verbatim text + Arabic from sunnah.com and scholar review.",
+ "overlays": {
+  "muslim:2999": {
+   "situation": "When everything feels like it is going wrong"
+  },
+  "bukhari:5641": {
+   "situation": "When you feel your pain is meaningless"
+  },
+  "bukhari:6369": {
+   "situation": "When anxiety will not leave you",
+   "story": "Anas served the Prophet ﷺ for years and said he heard him repeat this supplication many times, which shows that even the best of people sought Allah's protection from worry."
+  },
+  "bukhari:6346": {
+   "situation": "When you feel trapped and need relief"
+  },
+  "tirmidhi:2516": {
+   "situation": "When you feel alone against the world",
+   "story": "Ibn Abbas was only a boy riding behind the Prophet ﷺ on a mount when he was told, “Young man, I will teach you some words.” These words became one of the most loved reminders of trust in Allah."
+  },
+  "muslim:2664": {
+   "situation": "When you keep thinking 'if only I had…'"
+  },
+  "bukhari:1303": {
+   "situation": "When you feel guilty for crying",
+   "story": "The Prophet ﷺ held his infant son Ibrahim as he passed away, and tears ran from his eyes. A companion was surprised to see him weep, and he explained that tears are a mercy, as long as the tongue stays content with Allah."
+  },
+  "bukhari:1283": {
+   "situation": "When grief first hits",
+   "story": "The Prophet ﷺ passed a woman weeping at a grave and told her to fear Allah and be patient. Not recognising him, she said, 'Leave me, you have not been struck as I have.' Later she learned who he was and came to apologise. He gently taught her that patience counts most in the first moment of shock."
+  },
+  "bukhari:6424": {
+   "situation": "When you feel your loss will go unrewarded"
+  },
+  "bukhari:1284": {
+   "situation": "When you watch a loved one suffering",
+   "story": "The Prophet's daughter Zaynab sent for him as her little son was dying. He came, held the child, and his eyes overflowed. When Sa'd asked about the tears, he answered with these words."
+  },
+  "bukhari:1469": {
+   "situation": "When you are running out of patience",
+   "story": "Some people of the Ansar asked the Prophet ﷺ for help again and again until what he had ran out. He then reminded them that self-restraint, contentment and patience are themselves gifts from Allah."
+  },
+  "bukhari:5652": {
+   "situation": "When you live with a long-term condition",
+   "story": "A Black woman of Madinah who suffered from epilepsy came to the Prophet ﷺ. She chose patience and Paradise, asking only for her dignity to be protected. Ibn Abbas would point her out and say, 'Shall I show you a woman of Paradise?'"
+  },
+  "bukhari:5671": {
+   "situation": "When you are tempted to wish your life away"
+  },
+  "ibnmajah:4032": {
+   "situation": "When others hurt you and you hold back"
+  },
+  "bukhari:2996": {
+   "situation": "When you cannot do your usual worship because you are ill"
+  },
+  "bukhari:5678": {
+   "situation": "When you are searching for a cure"
+  },
+  "muslim:2202": {
+   "situation": "When you are in physical pain",
+   "story": "Uthman ibn Abi al-As complained to the Prophet ﷺ of a pain he had felt in his body since becoming Muslim. He taught him this practice, and Uthman later said Allah removed the pain."
+  },
+  "muslim:2575": {
+   "situation": "When a fever wears you down",
+   "story": "The Prophet ﷺ visited Umm as-Sa'ib, who was shivering with fever. When she cursed the fever, he gently corrected her with these words."
+  },
+  "bukhari:6116": {
+   "situation": "When you feel anger rising"
+  },
+  "bukhari:6114": {
+   "situation": "When you think strength means winning the argument"
+  },
+  "bukhari:3282": {
+   "situation": "In the middle of a heated fight",
+   "story": "Two men were insulting each other in front of the Prophet ﷺ, and one became red-faced with rage, his veins swelling. The Prophet ﷺ said this sentence, teaching that anger is often a whisper to be pushed away."
+  },
+  "abudawud:4782": {
+   "situation": "When anger takes over your body"
+  },
+  "abudawud:4811": {
+   "situation": "When you forget to thank the people around you"
+  },
+  "tirmidhi:2346": {
+   "situation": "When you feel you have nothing"
+  },
+  "bukhari:6412": {
+   "situation": "When you waste your days"
+  },
+  "bukhari:6446": {
+   "situation": "When you want more and more"
+  },
+  "abudawud:4985": {
+   "situation": "When you need rest for your heart",
+   "story": "For the Prophet ﷺ, prayer was not a chore to get through but the place where he found rest and comfort after a long day."
+  },
+  "muslim:482": {
+   "situation": "When you want to feel close to Allah"
+  },
+  "bukhari:1145": {
+   "situation": "When you cannot sleep at night"
+  },
+  "abudawud:1488": {
+   "situation": "When you feel too unworthy to raise your hands"
+  },
+  "bukhari:7405": {
+   "situation": "When you feel far from Allah"
+  },
+  "bukhari:6405": {
+   "situation": "When your sins feel countless"
+  },
+  "bukhari:6306": {
+   "situation": "Morning and evening, to seek forgiveness"
+  },
+  "bukhari:5010": {
+   "situation": "Before you sleep, when you feel unsafe",
+   "story": "Abu Hurayrah was guarding the zakah food when a man came three nights in a row to steal from it. Each time he begged to be let go. On the third night he taught Abu Hurayrah this verse in exchange. The Prophet ﷺ said: 'He told you the truth, though he is a liar. That was Shaytan.'"
+  },
+  "bukhari:5971": {
+   "situation": "When you wonder who deserves your care most"
+  },
+  "bukhari:3004": {
+   "situation": "When you are torn between your goals and your parents"
+  },
+  "tirmidhi:1899": {
+   "situation": "When pleasing your parents feels hard"
+  },
+  "bukhari:2620": {
+   "situation": "When your parent does not share your faith",
+   "story": "Asma's mother, who was not Muslim, came to visit her hoping for kindness. Asma asked the Prophet ﷺ whether she should keep ties with her, and he told her to be good to her mother."
+  },
+  "bukhari:5986": {
+   "situation": "When you want blessing in your life"
+  },
+  "bukhari:5991": {
+   "situation": "When relatives do not return your kindness"
+  },
+  "bukhari:6077": {
+   "situation": "When you have stopped talking to someone"
+  },
+  "bukhari:56": {
+   "situation": "When you feel spending on your family is 'just bills'"
+  },
+  "tirmidhi:3895": {
+   "situation": "When you want to be a better spouse"
+  },
+  "tirmidhi:1162": {
+   "situation": "When you measure someone's faith"
+  },
+  "bukhari:676": {
+   "situation": "When housework becomes a point of tension"
+  },
+  "bukhari:5090": {
+   "situation": "When you are choosing a spouse"
+  },
+  "bukhari:5997": {
+   "situation": "When you hold back affection from your children",
+   "story": "The Prophet ﷺ kissed his grandson Hasan. Al-Aqra' ibn Habis, sitting nearby, said, 'I have ten children and I have never kissed any of them.' The Prophet ﷺ looked at him and said these words."
+  },
+  "muslim:1631": {
+   "situation": "When you wonder what you will leave behind"
+  },
+  "tirmidhi:1956": {
+   "situation": "When you have nothing material to give"
+  },
+  "bukhari:13": {
+   "situation": "When you feel jealous of someone's success"
+  },
+  "bukhari:6094": {
+   "situation": "When a lie would make things easier"
+  },
+  "muslim:2589": {
+   "situation": "When the conversation turns to gossip"
+  },
+  "bukhari:2072": {
+   "situation": "When you feel your job is beneath you"
+  },
+  "tirmidhi:3540": {
+   "situation": "When your sins feel as high as the sky"
+  },
+  "bukhari:6307": {
+   "situation": "When you think seeking forgiveness is only for sinners"
+  },
+  "muslim:2749": {
+   "situation": "When you feel like a failure"
+  },
+  "tirmidhi:1987": {
+   "situation": "When you want to make up for a wrong"
+  },
+  "bukhari:6000": {
+   "situation": "When you need to remember how merciful Allah is"
+  },
+  "bukhari:1": {
+   "situation": "Before starting anything",
+   "story": "Scholars mention that a man emigrated to Madinah not for the faith but to marry a woman called Umm Qays. The hadith teaches that the same outward action can carry very different worth depending on the heart behind it."
+  },
+  "bukhari:6491": {
+   "situation": "When you meant to do good but could not"
+  },
+  "bukhari:6117": {
+   "situation": "When you feel shy or modest"
+  },
+  "muslim:2626": {
+   "situation": "When you think a small good deed is worthless"
+  },
+  "muslim:2588": {
+   "situation": "When you feel humble acts lower you"
+  },
+  "bukhari:6065": {
+   "situation": "When envy or resentment creeps in"
+  },
+  "bukhari:5027": {
+   "situation": "When you are learning or teaching the Qur'an"
+  },
+  "bukhari:4937": {
+   "situation": "When you stumble while reading the Qur'an"
+  },
+  "bukhari:1417": {
+   "situation": "When you have very little to give"
+  },
+  "bukhari:1419": {
+   "situation": "When you keep postponing charity"
+  },
+  "bukhari:6416": {
+   "situation": "When this world feels too heavy",
+   "story": "The Prophet ﷺ took Ibn Umar by the shoulder and said these words. Ibn Umar would add: 'In the evening, do not wait for the morning; in the morning, do not wait for the evening. Take from your health for your sickness and from your life for your death.'"
+  }
+ },
+ "additions": [
+  {
+   "id": "c1",
+   "topic": "Worry, anxiety & distress",
+   "text": "The supplication of Dhun-Nun (Prophet Yunus) when he was in the belly of the whale was: “There is no god but You, glory be to You; truly I was among the wrongdoers.” No Muslim calls upon Allah with it for anything except that Allah answers him.",
+   "narrator": "Narrated Sa'd ibn Abi Waqqas",
+   "reference": "Jami' at-Tirmidhi 3505",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/tirmidhi:3505",
+   "situation": "When you are in the 'belly of the whale' moment",
+   "story": "Yunus (peace be upon him) left his people in frustration and was swallowed by a great fish. In darkness upon darkness he did not complain; he praised Allah and admitted his own fault, and Allah rescued him. The Prophet ﷺ taught that this same dua is a key for anyone in distress."
+  },
+  {
+   "id": "c2",
+   "topic": "Worry, anxiety & distress",
+   "text": "The greatness of the reward comes with the greatness of the trial. When Allah loves a people He tests them. Whoever is content will have contentment, and whoever is resentful will have resentment.",
+   "narrator": "Narrated Anas ibn Malik",
+   "reference": "Jami' at-Tirmidhi 2396",
+   "grade": "Hasan",
+   "url": "https://sunnah.com/tirmidhi:2396",
+   "situation": "When you wonder why you are being tested"
+  },
+  {
+   "id": "c3",
+   "topic": "Worry, anxiety & distress",
+   "text": "Look at those who are below you and do not look at those who are above you, for that is more likely to keep you from belittling the blessings Allah has given you.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih Muslim 2963",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2963",
+   "situation": "When you compare your life with others"
+  },
+  {
+   "id": "c4",
+   "topic": "Grief, loss & death of loved ones",
+   "text": "There is no Muslim struck by a calamity who says what Allah has commanded, “To Allah we belong and to Him we return. O Allah, reward me in my calamity and replace it for me with something better,” except that Allah replaces it for him with something better.",
+   "narrator": "Narrated Umm Salamah",
+   "reference": "Sahih Muslim 918",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:918",
+   "situation": "When you have lost someone dear",
+   "story": "When her husband Abu Salamah died, Umm Salamah said this dua while thinking, 'Who could be better than Abu Salamah?' Allah then replaced him with someone better: she married the Prophet ﷺ himself."
+  },
+  {
+   "id": "c5",
+   "topic": "Grief, loss & death of loved ones",
+   "text": "Any woman among you who loses three of her children, they will be a shield for her from the Fire. A woman asked, 'And two?' He said, 'And two.'",
+   "narrator": "Narrated Abu Sa'id al-Khudri",
+   "reference": "Sahih al-Bukhari 101",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:101",
+   "situation": "When a parent has lost a child",
+   "story": "The women of Madinah asked the Prophet ﷺ to set aside a day to teach them, since the men took up his time. On that day he gave them this comfort for mothers who had buried their children."
+  },
+  {
+   "id": "c6",
+   "topic": "Grief, loss & death of loved ones",
+   "text": "When a servant's child dies, Allah asks the angels, 'You have taken the fruit of his heart?' They say yes. He asks, 'What did My servant say?' They say, 'He praised You and said: To Allah we belong and to Him we return.' Allah says, 'Build for My servant a house in Paradise and name it the House of Praise.'",
+   "narrator": "Narrated Abu Musa al-Ash'ari",
+   "reference": "Jami' at-Tirmidhi 1021",
+   "grade": "Hasan",
+   "url": "https://sunnah.com/tirmidhi:1021",
+   "situation": "When your child has passed away"
+  },
+  {
+   "id": "c7",
+   "topic": "Illness & pain",
+   "text": "When the Prophet ﷺ visited a sick person he would say: “La ba's, tahurun in sha Allah” — No harm, it is a purification, if Allah wills.",
+   "narrator": "Narrated Ibn Abbas",
+   "reference": "Sahih al-Bukhari 3616",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:3616",
+   "situation": "When you visit someone who is sick",
+   "story": "He visited a Bedouin with a fever and said these words of comfort. The man answered bitterly that it was a fever boiling in an old man that would take him to the grave. The Prophet ﷺ replied, 'Then so be it,' showing that comfort is offered but the heart must accept it."
+  },
+  {
+   "id": "c8",
+   "topic": "Illness & pain",
+   "text": "If you hear of a plague in a land, do not enter it; and if it breaks out in a land where you are, do not leave it.",
+   "narrator": "Narrated Usamah ibn Zayd",
+   "reference": "Sahih al-Bukhari 5728; Sahih Muslim 2218",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:5728",
+   "situation": "When there is an outbreak or epidemic",
+   "story": "Umar ibn al-Khattab was travelling to Syria when news arrived of a plague there. After consulting the companions, Abdur-Rahman ibn Awf reported this hadith, and Umar turned back, saying they were fleeing from one decree of Allah to another decree of Allah."
+  },
+  {
+   "id": "c9",
+   "topic": "Illness & pain",
+   "text": "Allah will say on the Day of Resurrection: 'O son of Adam, I was sick and you did not visit Me.' He will say, 'How could I visit You when You are the Lord of the worlds?' Allah will say, 'Did you not know that My servant so-and-so was sick and you did not visit him? Had you visited him, you would have found Me with him.'",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih Muslim 2569",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2569",
+   "situation": "When a friend or relative is in hospital"
+  },
+  {
+   "id": "c10",
+   "topic": "Anger & self-control",
+   "text": "Whoever restrains his anger while he is able to act on it, Allah will call him before all of creation on the Day of Resurrection and let him choose whichever of the maidens of Paradise he wishes.",
+   "narrator": "Narrated Mu'adh ibn Anas",
+   "reference": "Sunan Abi Dawud 4777",
+   "grade": "Hasan",
+   "url": "https://sunnah.com/abudawud:4777",
+   "situation": "When you could take revenge but choose not to"
+  },
+  {
+   "id": "c11",
+   "topic": "Anger & self-control",
+   "text": "Gently, O Aisha! Allah is gentle and loves gentleness in all matters.",
+   "narrator": "Narrated Aisha",
+   "reference": "Sahih al-Bukhari 6024; Sahih Muslim 2165",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:6024",
+   "situation": "When someone is rude to you",
+   "story": "A group came to the Prophet ﷺ and, twisting the greeting, said 'Death be upon you.' Aisha answered back harshly. The Prophet ﷺ only replied 'And upon you,' and taught her that gentleness is loved by Allah even when facing rudeness."
+  },
+  {
+   "id": "c12",
+   "topic": "Anger & self-control",
+   "text": "Gentleness is not found in anything except that it beautifies it, and it is not removed from anything except that it disfigures it.",
+   "narrator": "Narrated Aisha",
+   "reference": "Sahih Muslim 2594",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2594",
+   "situation": "When you want to handle a situation well"
+  },
+  {
+   "id": "c13",
+   "topic": "Gratitude",
+   "text": "Should I not be a grateful servant?",
+   "narrator": "Narrated Al-Mughirah ibn Shu'bah & Aisha",
+   "reference": "Sahih al-Bukhari 4837; Sahih Muslim 2820",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:4837",
+   "situation": "When worship feels like a burden",
+   "story": "The Prophet ﷺ prayed at night until his feet cracked and swelled. Aisha asked why he did this when Allah had already forgiven him. His answer showed that worship can come from love and thankfulness, not only from fear."
+  },
+  {
+   "id": "c14",
+   "topic": "Gratitude",
+   "text": "Allah is pleased with a servant who eats a meal and praises Him for it, and drinks a drink and praises Him for it.",
+   "narrator": "Narrated Anas ibn Malik",
+   "reference": "Sahih Muslim 2734",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2734",
+   "situation": "At mealtimes"
+  },
+  {
+   "id": "c15",
+   "topic": "Prayer & worship",
+   "text": "Whenever something distressed the Prophet ﷺ, he would pray.",
+   "narrator": "Narrated Hudhayfah",
+   "reference": "Sunan Abi Dawud 1319",
+   "grade": "Hasan",
+   "url": "https://sunnah.com/abudawud:1319",
+   "situation": "When something troubles you"
+  },
+  {
+   "id": "c16",
+   "topic": "Prayer & worship",
+   "text": "If there were a river at the door of one of you and he bathed in it five times a day, would any dirt remain on him? That is the example of the five prayers: through them Allah wipes away sins.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih al-Bukhari 528; Sahih Muslim 667",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:528",
+   "situation": "When you feel weighed down by your sins"
+  },
+  {
+   "id": "c17",
+   "topic": "Prayer & worship",
+   "text": "The first deed for which a servant will be called to account on the Day of Resurrection is his prayer. If it is sound, he will have succeeded; if it is defective, he will have failed and lost.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Jami' at-Tirmidhi 413",
+   "grade": "Hasan",
+   "url": "https://sunnah.com/tirmidhi:413",
+   "situation": "When you are struggling to pray regularly"
+  },
+  {
+   "id": "c18",
+   "topic": "Prayer & worship",
+   "text": "I asked the Prophet ﷺ which deed is most beloved to Allah. He said, 'Prayer at its proper time.' I asked, 'Then what?' He said, 'Kindness to parents.' I asked, 'Then what?' He said, 'Striving in the way of Allah.'",
+   "narrator": "Narrated Abdullah ibn Mas'ud",
+   "reference": "Sahih al-Bukhari 527; Sahih Muslim 85",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:527",
+   "situation": "When you wonder which deeds matter most"
+  },
+  {
+   "id": "c19",
+   "topic": "Prayer & worship",
+   "text": "The two rak'ahs of Fajr are better than this world and everything in it.",
+   "narrator": "Narrated Aisha",
+   "reference": "Sahih Muslim 725",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:725",
+   "situation": "When it is hard to get up for Fajr"
+  },
+  {
+   "id": "c20",
+   "topic": "Prayer & worship",
+   "text": "Prayer in congregation is twenty-seven degrees better than prayer offered alone.",
+   "narrator": "Narrated Ibn Umar",
+   "reference": "Sahih al-Bukhari 645; Sahih Muslim 650",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:645",
+   "situation": "When you are deciding whether to pray at the mosque"
+  },
+  {
+   "id": "c21",
+   "topic": "Prayer & worship",
+   "text": "Whoever prays the morning (Fajr) prayer is under the protection of Allah.",
+   "narrator": "Narrated Jundub ibn Abdillah",
+   "reference": "Sahih Muslim 657",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:657",
+   "situation": "When you are afraid of the day ahead"
+  },
+  {
+   "id": "c22",
+   "topic": "Duas for difficult times",
+   "text": "The supplication of any of you will be answered as long as he is not impatient and says, 'I prayed but I was not answered.'",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih al-Bukhari 6340; Sahih Muslim 2735",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:6340",
+   "situation": "When it feels like your dua is not answered"
+  },
+  {
+   "id": "c23",
+   "topic": "Duas for difficult times",
+   "text": "There is no Muslim on earth who calls upon Allah with a supplication except that Allah gives him what he asked, or turns away from him an equal harm, as long as he does not ask for something sinful or for cutting family ties.",
+   "narrator": "Narrated Ubadah ibn as-Samit",
+   "reference": "Jami' at-Tirmidhi 3573",
+   "grade": "Hasan Sahih",
+   "url": "https://sunnah.com/tirmidhi:3573",
+   "situation": "When you doubt that asking makes a difference"
+  },
+  {
+   "id": "c24",
+   "topic": "Remembrance of Allah & peace of heart",
+   "text": "The example of one who remembers his Lord and one who does not is like the example of the living and the dead.",
+   "narrator": "Narrated Abu Musa al-Ash'ari",
+   "reference": "Sahih al-Bukhari 6407",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:6407",
+   "situation": "When your heart feels dead"
+  },
+  {
+   "id": "c25",
+   "topic": "Remembrance of Allah & peace of heart",
+   "text": "Two phrases are light on the tongue, heavy on the scales and beloved to the Most Merciful: 'SubhanAllahi wa bihamdihi, SubhanAllahil-Azim' (Glory be to Allah and praise Him; glory be to Allah the Magnificent).",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih al-Bukhari 6406; Sahih Muslim 2694",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:6406",
+   "situation": "When you want something easy to say every day"
+  },
+  {
+   "id": "c26",
+   "topic": "Remembrance of Allah & peace of heart",
+   "text": "Shall I not tell you of something better than a servant? When you go to bed, say SubhanAllah thirty-three times, Alhamdulillah thirty-three times and Allahu Akbar thirty-four times. That is better for you than a servant.",
+   "narrator": "Narrated Ali ibn Abi Talib",
+   "reference": "Sahih al-Bukhari 3705; Sahih Muslim 2727",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:3705",
+   "situation": "When you are exhausted by housework and responsibilities",
+   "story": "Fatimah's hands were blistered from grinding grain, and she went to ask her father ﷺ for a servant from the captives. He came to her and Ali at night and gave them this dhikr instead, a source of strength for every tired person since."
+  },
+  {
+   "id": "c27",
+   "topic": "Remembrance of Allah & peace of heart",
+   "text": "Shall I not guide you to a treasure from the treasures of Paradise? 'La hawla wa la quwwata illa billah' (There is no power and no strength except with Allah).",
+   "narrator": "Narrated Abu Musa al-Ash'ari",
+   "reference": "Sahih al-Bukhari 4205; Sahih Muslim 2704",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:4205",
+   "situation": "When a task seems impossible"
+  },
+  {
+   "id": "c28",
+   "topic": "Duas for difficult times",
+   "text": "No Muslim servant supplicates for his brother in his absence except that an angel says: 'And for you the same.'",
+   "narrator": "Narrated Abu ad-Darda'",
+   "reference": "Sahih Muslim 2732",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2732",
+   "situation": "When you want to help a friend who is struggling"
+  },
+  {
+   "id": "c29",
+   "topic": "Parents",
+   "text": "“Do you have a mother?” He said, “Yes.” He said, “Then stay with her, for Paradise is beneath her feet.”",
+   "narrator": "Narrated Mu'awiyah ibn Jahimah",
+   "reference": "Sunan an-Nasa'i 3104",
+   "grade": "Hasan",
+   "url": "https://sunnah.com/nasai:3104",
+   "situation": "When you want to do great deeds but your mother needs you"
+  },
+  {
+   "id": "c30",
+   "topic": "Parents",
+   "text": "May his nose be rubbed in dust, may his nose be rubbed in dust! The one whose parents, one or both, reach old age while he is with them, and he does not enter Paradise (by serving them).",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih Muslim 2551",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2551",
+   "situation": "When your parents are growing old"
+  },
+  {
+   "id": "c31",
+   "topic": "Parents",
+   "text": "Three men were trapped in a cave by a rock. Each called on Allah by a sincere good deed. One said: 'O Allah, I had elderly parents and I never gave my family milk before them. One night I came late and they were asleep, so I stood holding the cup until dawn, while my children cried at my feet. If I did that for Your sake, relieve us.' And the rock moved.",
+   "narrator": "Narrated Ibn Umar",
+   "reference": "Sahih al-Bukhari 2272; Sahih Muslim 2743",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:2272",
+   "situation": "When you think small acts of service do not count",
+   "story": "The Prophet ﷺ told this story of three men from a previous nation. Each was saved by one sincere deed: kindness to parents, chastity, and honesty with a worker's wages. Together the deeds opened the cave."
+  },
+  {
+   "id": "c32",
+   "topic": "Parents",
+   "text": "Among the finest acts of goodness is that a person keeps ties with the people his father loved.",
+   "narrator": "Narrated Ibn Umar",
+   "reference": "Sahih Muslim 2552",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2552",
+   "situation": "After your parents have passed away"
+  },
+  {
+   "id": "c33",
+   "topic": "Children & family ties",
+   "text": "A man said, 'I have relatives: I keep ties with them and they cut me off, I treat them well and they treat me badly.' The Prophet ﷺ said, 'If you are as you say, it is as if you are feeding them hot ashes, and you will have a helper from Allah against them as long as you continue.'",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih Muslim 2558",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2558",
+   "situation": "When family members keep hurting you"
+  },
+  {
+   "id": "c34",
+   "topic": "Marriage & spouse",
+   "text": "A believing man should not hate a believing woman. If he dislikes one of her traits, he will be pleased with another.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih Muslim 1469",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:1469",
+   "situation": "When your spouse annoys you"
+  },
+  {
+   "id": "c35",
+   "topic": "Marriage & spouse",
+   "text": "This world is a provision, and the best provision of this world is a righteous woman.",
+   "narrator": "Narrated Abdullah ibn Amr",
+   "reference": "Sahih Muslim 1467",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:1467",
+   "situation": "When you appreciate a good partner"
+  },
+  {
+   "id": "c36",
+   "topic": "Marriage & spouse",
+   "text": "Aisha said: I raced the Prophet ﷺ and beat him. Later, when I had put on weight, we raced again and he beat me, and he said, 'This makes up for that one.'",
+   "narrator": "Narrated Aisha",
+   "reference": "Sunan Abi Dawud 2578",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/abudawud:2578",
+   "situation": "When marriage has become all routine and no joy",
+   "story": "On a journey the Prophet ﷺ sent the army ahead so he and Aisha could race. Years later he remembered the first race and teased her after winning the second, a picture of warmth and play in marriage."
+  },
+  {
+   "id": "c37",
+   "topic": "Marriage & spouse",
+   "text": "Khadijah said: 'Never! By Allah, Allah will never disgrace you. You keep ties with your relatives, you carry the burdens of the weak, you help the poor, you honour your guests and you support people in times of hardship.'",
+   "narrator": "Narrated Aisha",
+   "reference": "Sahih al-Bukhari 3",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:3",
+   "situation": "When your spouse is frightened or overwhelmed",
+   "story": "After the first revelation in the cave of Hira, the Prophet ﷺ came home trembling and said, 'Cover me.' Khadijah did not panic or doubt him. She reminded him of his good character and took him to her cousin Waraqah. Her support is a model of how spouses steady each other."
+  },
+  {
+   "id": "c38",
+   "topic": "Children & family ties",
+   "text": "Whoever raises two girls until they reach adulthood, he and I will come on the Day of Resurrection like this — and he joined his fingers together.",
+   "narrator": "Narrated Anas ibn Malik",
+   "reference": "Sahih Muslim 2631",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2631",
+   "situation": "When you are raising daughters"
+  },
+  {
+   "id": "c39",
+   "topic": "Children & family ties",
+   "text": "My son was riding on my back, and I did not want to hurry him until he had finished.",
+   "narrator": "Narrated Shaddad ibn al-Had",
+   "reference": "Sunan an-Nasa'i 1141",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/nasai:1141",
+   "situation": "When kids interrupt your worship",
+   "story": "During a prayer, the Prophet ﷺ stayed in prostration so long that the people thought something had happened. Afterwards he explained that his grandson had climbed onto his back and he did not want to rush him."
+  },
+  {
+   "id": "c40",
+   "topic": "Children & family ties",
+   "text": "I begin the prayer intending to make it long, then I hear a child crying and I shorten it, because I know how much the mother is troubled by his crying.",
+   "narrator": "Narrated Anas ibn Malik",
+   "reference": "Sahih al-Bukhari 709",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:709",
+   "situation": "When a child cries during prayer"
+  },
+  {
+   "id": "c41",
+   "topic": "Children & family ties",
+   "text": "Each of you is a shepherd and each of you is responsible for his flock. The man is a shepherd over his family, and the woman is a shepherd over her husband's house and children.",
+   "narrator": "Narrated Ibn Umar",
+   "reference": "Sahih al-Bukhari 893; Sahih Muslim 1829",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:893",
+   "situation": "When you feel the weight of responsibility"
+  },
+  {
+   "id": "c42",
+   "topic": "Children & family ties",
+   "text": "Fear Allah and be fair between your children.",
+   "narrator": "Narrated An-Nu'man ibn Bashir",
+   "reference": "Sahih al-Bukhari 2587; Sahih Muslim 1623",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:2587",
+   "situation": "When you are tempted to favour one child",
+   "story": "An-Nu'man's father gave him a special gift and asked the Prophet ﷺ to witness it. The Prophet ﷺ asked, 'Did you give the same to all your children?' When he said no, the Prophet ﷺ refused to witness it, and the father took the gift back."
+  },
+  {
+   "id": "c43",
+   "topic": "Neighbours & guests",
+   "text": "Jibril kept advising me to treat the neighbour well until I thought he would make him an heir.",
+   "narrator": "Narrated Aisha & Ibn Umar",
+   "reference": "Sahih al-Bukhari 6014; Sahih Muslim 2624",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:6014",
+   "situation": "When your neighbour is difficult"
+  },
+  {
+   "id": "c44",
+   "topic": "Neighbours & guests",
+   "text": "Whoever believes in Allah and the Last Day, let him speak good or remain silent. Whoever believes in Allah and the Last Day, let him honour his neighbour. Whoever believes in Allah and the Last Day, let him honour his guest.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih al-Bukhari 6018; Sahih Muslim 47",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:6018",
+   "situation": "When you have guests or neighbours around"
+  },
+  {
+   "id": "c45",
+   "topic": "Kindness, gentleness & mercy to others",
+   "text": "A man was walking and became very thirsty. He went down into a well and drank. When he came out he saw a dog panting and licking the mud from thirst. He went down again, filled his shoe with water and gave the dog a drink. Allah appreciated this and forgave him. The companions asked, 'Is there reward for us in animals?' He said, 'In every living creature there is reward.'",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih al-Bukhari 2363; Sahih Muslim 2244",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:2363",
+   "situation": "When you think kindness to animals is small"
+  },
+  {
+   "id": "c46",
+   "topic": "Kindness, gentleness & mercy to others",
+   "text": "A woman was punished because of a cat she locked up until it died. She neither fed it nor let it go to eat from the creatures of the earth.",
+   "narrator": "Narrated Ibn Umar",
+   "reference": "Sahih al-Bukhari 3482; Sahih Muslim 2242",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:3482",
+   "situation": "When you are careless with animals"
+  },
+  {
+   "id": "c47",
+   "topic": "Kindness, gentleness & mercy to others",
+   "text": "The merciful are shown mercy by the Most Merciful. Be merciful to those on earth, and the One above the heavens will be merciful to you.",
+   "narrator": "Narrated Abdullah ibn Amr",
+   "reference": "Jami' at-Tirmidhi 1924",
+   "grade": "Hasan Sahih",
+   "url": "https://sunnah.com/tirmidhi:1924",
+   "situation": "When you need Allah's mercy"
+  },
+  {
+   "id": "c48",
+   "topic": "Kindness, gentleness & mercy to others",
+   "text": "Every joint of a person must give charity every day the sun rises: judging fairly between two people is charity, helping a man onto his mount is charity, a good word is charity, every step to the prayer is charity, and removing something harmful from the road is charity.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih al-Bukhari 2989; Sahih Muslim 1009",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:2989",
+   "situation": "When you think you cannot do much good"
+  },
+  {
+   "id": "c49",
+   "topic": "Kindness, gentleness & mercy to others",
+   "text": "Whoever relieves a believer of a hardship of this world, Allah will relieve him of a hardship of the Day of Resurrection. Whoever makes things easy for someone in difficulty, Allah will make things easy for him in this world and the next. Allah helps His servant as long as the servant helps his brother.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih Muslim 2699",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2699",
+   "situation": "When a friend is going through a hard time"
+  },
+  {
+   "id": "c50",
+   "topic": "Speech, honesty & the tongue",
+   "text": "The signs of a hypocrite are three: when he speaks he lies, when he promises he breaks it, and when he is trusted he betrays.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih al-Bukhari 33; Sahih Muslim 59",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:33",
+   "situation": "When you are tempted to break a promise"
+  },
+  {
+   "id": "c51",
+   "topic": "Speech, honesty & the tongue",
+   "text": "A servant may speak a word without thinking about it, and because of it he slips into the Fire farther than the distance between east and west.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih al-Bukhari 6477; Sahih Muslim 2988",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:6477",
+   "situation": "Before you post or say something carelessly"
+  },
+  {
+   "id": "c52",
+   "topic": "Speech, honesty & the tongue",
+   "text": "Leave what makes you doubt for what does not make you doubt. Truthfulness brings peace of mind, and lying brings doubt.",
+   "narrator": "Narrated Al-Hasan ibn Ali",
+   "reference": "Jami' at-Tirmidhi 2518",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/tirmidhi:2518",
+   "situation": "When you are unsure whether something is right"
+  },
+  {
+   "id": "c53",
+   "topic": "Speech, honesty & the tongue",
+   "text": "The Muslim is the one from whose tongue and hand the Muslims are safe.",
+   "narrator": "Narrated Abdullah ibn Amr",
+   "reference": "Sahih al-Bukhari 10; Sahih Muslim 41",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:10",
+   "situation": "When you want to know who a true Muslim is"
+  },
+  {
+   "id": "c54",
+   "topic": "Speech, honesty & the tongue",
+   "text": "Ka'b said: 'O Messenger of Allah, Allah saved me only because of my truthfulness, and part of my repentance is that I will speak nothing but the truth for as long as I live.'",
+   "narrator": "Narrated Ka'b ibn Malik",
+   "reference": "Sahih al-Bukhari 4418; Sahih Muslim 2769",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:4418",
+   "situation": "When telling the truth may cost you",
+   "story": "Ka'b stayed behind from the expedition of Tabuk without an excuse. Others made up excuses; Ka'b told the plain truth. He was boycotted for fifty days until the earth felt narrow for him. Then Allah revealed verses accepting his repentance. He said his honesty was the reason he was saved."
+  },
+  {
+   "id": "c55",
+   "topic": "Work, earning & effort",
+   "text": "If you relied on Allah as He truly should be relied upon, He would provide for you as He provides for the birds: they go out hungry in the morning and return full in the evening.",
+   "narrator": "Narrated Umar ibn al-Khattab",
+   "reference": "Jami' at-Tirmidhi 2344",
+   "grade": "Hasan Sahih",
+   "url": "https://sunnah.com/tirmidhi:2344",
+   "situation": "When you are anxious about money"
+  },
+  {
+   "id": "c56",
+   "topic": "Work, earning & effort",
+   "text": "A man asked, 'Should I tie my camel and trust in Allah, or leave it untied and trust in Allah?' He said, 'Tie it and trust in Allah.'",
+   "narrator": "Narrated Anas ibn Malik",
+   "reference": "Jami' at-Tirmidhi 2517",
+   "grade": "Hasan",
+   "url": "https://sunnah.com/tirmidhi:2517",
+   "situation": "When you wonder if trusting Allah means not planning"
+  },
+  {
+   "id": "c57",
+   "topic": "Work, earning & effort",
+   "text": "For one of you to take a rope, gather a bundle of firewood on his back and sell it, so that Allah protects his dignity by it, is better than asking people, whether they give him or refuse him.",
+   "narrator": "Narrated Az-Zubayr ibn al-Awwam",
+   "reference": "Sahih al-Bukhari 1471",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:1471",
+   "situation": "When you are tempted to rely on others"
+  },
+  {
+   "id": "c58",
+   "topic": "Work, earning & effort",
+   "text": "The upper hand is better than the lower hand. The upper hand is the one that gives, and the lower hand is the one that asks.",
+   "narrator": "Narrated Ibn Umar",
+   "reference": "Sahih al-Bukhari 1429; Sahih Muslim 1033",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:1429",
+   "situation": "When you are building your independence"
+  },
+  {
+   "id": "c59",
+   "topic": "Work, earning & effort",
+   "text": "The buyer and the seller have the option to cancel as long as they have not parted. If they were honest and made everything clear, their deal will be blessed. If they concealed and lied, the blessing of their deal will be wiped out.",
+   "narrator": "Narrated Hakim ibn Hizam",
+   "reference": "Sahih al-Bukhari 2079; Sahih Muslim 1532",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:2079",
+   "situation": "When you run a business"
+  },
+  {
+   "id": "c60",
+   "topic": "Work, earning & effort",
+   "text": "Whoever cheats is not one of us.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih Muslim 102",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:102",
+   "situation": "When you are tempted to hide a product's flaw",
+   "story": "In the market the Prophet ﷺ put his hand into a pile of grain and found it wet underneath. The seller said rain had fallen on it. He said, 'Why not put the wet part on top so people can see it?' and then said these words."
+  },
+  {
+   "id": "c61",
+   "topic": "Work, earning & effort",
+   "text": "Give the worker his wages before his sweat dries.",
+   "narrator": "Narrated Ibn Umar",
+   "reference": "Sunan Ibn Majah 2443",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/ibnmajah:2443",
+   "situation": "When you employ or pay someone"
+  },
+  {
+   "id": "c62",
+   "topic": "Repentance & forgiveness of sins",
+   "text": "Allah is more delighted with the repentance of His servant than one of you who was on his camel in a barren desert. It ran away carrying his food and drink, and he lost all hope and lay down in the shade of a tree. Then suddenly there it was, standing beside him. He grabbed its rope and, out of extreme joy, said: 'O Allah, You are my servant and I am Your Lord!' — he made a mistake out of extreme joy.",
+   "narrator": "Narrated Anas ibn Malik",
+   "reference": "Sahih Muslim 2747; Sahih al-Bukhari 6309",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2747",
+   "situation": "When you think Allah will not forgive you"
+  },
+  {
+   "id": "c63",
+   "topic": "Repentance & forgiveness of sins",
+   "text": "A man had killed ninety-nine people. He asked a monk if he could repent, and the monk said no, so he killed him too. Then a scholar told him, 'Who can stand between you and repentance? Go to such-and-such a land where people worship Allah.' He set out and died on the way. The angels of mercy and the angels of punishment disputed over him. They measured the distance and found him closer to the land he was heading toward, so the angels of mercy took him.",
+   "narrator": "Narrated Abu Sa'id al-Khudri",
+   "reference": "Sahih al-Bukhari 3470; Sahih Muslim 2766",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:3470",
+   "situation": "When you feel it is too late for you",
+   "story": "In one narration Allah commanded the land he left to move farther away and the land he sought to come closer. What mattered was that he had turned around and started walking."
+  },
+  {
+   "id": "c64",
+   "topic": "Repentance & forgiveness of sins",
+   "text": "Every child of Adam makes mistakes, and the best of those who make mistakes are those who repent.",
+   "narrator": "Narrated Anas ibn Malik",
+   "reference": "Jami' at-Tirmidhi 2499",
+   "grade": "Hasan",
+   "url": "https://sunnah.com/tirmidhi:2499",
+   "situation": "When you keep making the same mistake"
+  },
+  {
+   "id": "c65",
+   "topic": "Repentance & forgiveness of sins",
+   "text": "Allah stretches out His hand at night so that the one who sinned during the day may repent, and He stretches out His hand during the day so that the one who sinned at night may repent, until the sun rises from the west.",
+   "narrator": "Narrated Abu Musa al-Ash'ari",
+   "reference": "Sahih Muslim 2759",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2759",
+   "situation": "After a bad day"
+  },
+  {
+   "id": "c66",
+   "topic": "Repentance & forgiveness of sins",
+   "text": "“Do you think this woman would throw her child into the fire?” We said, “No, by Allah.” He said, “Allah is more merciful to His servants than this woman is to her child.”",
+   "narrator": "Narrated Umar ibn al-Khattab",
+   "reference": "Sahih al-Bukhari 5999; Sahih Muslim 2754",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:5999",
+   "situation": "When you doubt Allah loves you",
+   "story": "Captives were brought to the Prophet ﷺ, and a woman among them was frantically searching for her baby. When she found him she pulled him close and nursed him. The Prophet ﷺ pointed to her and used her love to show the companions the far greater mercy of Allah."
+  },
+  {
+   "id": "c67",
+   "topic": "Good character & manners",
+   "text": "Allah does not look at your bodies or your appearance, but He looks at your hearts and your deeds.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih Muslim 2564",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2564",
+   "situation": "When you feel judged by appearances"
+  },
+  {
+   "id": "c68",
+   "topic": "Good character & manners",
+   "text": "Nothing will be heavier on the scale of the believer on the Day of Resurrection than good character.",
+   "narrator": "Narrated Abu ad-Darda'",
+   "reference": "Jami' at-Tirmidhi 2002",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/tirmidhi:2002",
+   "situation": "When you want the heaviest deed on your scale"
+  },
+  {
+   "id": "c69",
+   "topic": "Good character & manners",
+   "text": "I was sent only to perfect good character.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Al-Adab al-Mufrad 273",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/adab:273",
+   "situation": "When you want to understand the Prophet's mission"
+  },
+  {
+   "id": "c70",
+   "topic": "Good character & manners",
+   "text": "No one who has an atom's weight of arrogance in his heart will enter Paradise. A man said, 'A person likes his clothes and shoes to be nice.' He said, 'Allah is beautiful and loves beauty. Arrogance is rejecting the truth and looking down on people.'",
+   "narrator": "Narrated Abdullah ibn Mas'ud",
+   "reference": "Sahih Muslim 91",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:91",
+   "situation": "When you feel proud or superior"
+  },
+  {
+   "id": "c71",
+   "topic": "Learning & the Qur'an",
+   "text": "When Allah wants good for someone, He gives him understanding of the religion.",
+   "narrator": "Narrated Mu'awiyah",
+   "reference": "Sahih al-Bukhari 71; Sahih Muslim 1037",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:71",
+   "situation": "When you want Allah to want good for you"
+  },
+  {
+   "id": "c72",
+   "topic": "Learning & the Qur'an",
+   "text": "Read the Qur'an, for it will come on the Day of Resurrection as an intercessor for its companions.",
+   "narrator": "Narrated Abu Umamah",
+   "reference": "Sahih Muslim 804",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:804",
+   "situation": "When you need a reason to open the Qur'an today"
+  },
+  {
+   "id": "c73",
+   "topic": "Charity & helping others",
+   "text": "Among the seven whom Allah will shade on the Day when there is no shade but His: a man who gives charity so secretly that his left hand does not know what his right hand gives, and a man who remembers Allah in private and his eyes overflow with tears.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih al-Bukhari 660; Sahih Muslim 1031",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:660",
+   "situation": "When you want your giving to stay private"
+  },
+  {
+   "id": "c74",
+   "topic": "Charity & helping others",
+   "text": "Every act of goodness is charity.",
+   "narrator": "Narrated Jabir ibn Abdillah",
+   "reference": "Sahih al-Bukhari 6021",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:6021",
+   "situation": "When you wonder what counts as charity"
+  },
+  {
+   "id": "c75",
+   "topic": "Charity & helping others",
+   "text": "A prostitute saw a dog circling a well on a hot day, its tongue hanging out from thirst. She drew water for it with her shoe, and she was forgiven because of it.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih al-Bukhari 3467; Sahih Muslim 2245",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:3467",
+   "situation": "When you think your past rules out good deeds"
+  },
+  {
+   "id": "c76",
+   "topic": "This world & the hereafter",
+   "text": "None of you should die except while thinking well of Allah.",
+   "narrator": "Narrated Jabir ibn Abdillah",
+   "reference": "Sahih Muslim 2877",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2877",
+   "situation": "When you are afraid of meeting Allah"
+  },
+  {
+   "id": "c77",
+   "topic": "This world & the hereafter",
+   "text": "Allah says: I have prepared for My righteous servants what no eye has seen, no ear has heard, and no human heart has ever imagined.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih al-Bukhari 3244; Sahih Muslim 2824",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:3244",
+   "situation": "When you dream of something better than this life"
+  },
+  {
+   "id": "c78",
+   "topic": "This world & the hereafter",
+   "text": "The person who suffered the most hardship in this world, from the people of Paradise, will be dipped once into Paradise and asked, 'O son of Adam, did you ever see any hardship? Did you ever go through any difficulty?' He will say, 'No, by Allah, my Lord. I never saw any hardship and never went through any difficulty.'",
+   "narrator": "Narrated Anas ibn Malik",
+   "reference": "Sahih Muslim 2807",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/muslim:2807",
+   "situation": "When your whole life has felt like suffering"
+  },
+  {
+   "id": "c79",
+   "topic": "This world & the hereafter",
+   "text": "Whoever's last words are 'La ilaha illallah' (there is no god but Allah) will enter Paradise.",
+   "narrator": "Narrated Mu'adh ibn Jabal",
+   "reference": "Sunan Abi Dawud 3116",
+   "grade": "Hasan",
+   "url": "https://sunnah.com/abudawud:3116",
+   "situation": "When you sit with someone who is dying"
+  },
+  {
+   "id": "c80",
+   "topic": "This world & the hereafter",
+   "text": "Remember often the destroyer of pleasures: death.",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Jami' at-Tirmidhi 2307",
+   "grade": "Hasan",
+   "url": "https://sunnah.com/tirmidhi:2307",
+   "situation": "When you get too attached to pleasures"
+  },
+  {
+   "id": "c81",
+   "topic": "This world & the hereafter",
+   "text": "When Allah completed creation, He wrote in a Book that is with Him above the Throne: 'My mercy prevails over My anger.'",
+   "narrator": "Narrated Abu Hurayrah",
+   "reference": "Sahih al-Bukhari 3194; Sahih Muslim 2751",
+   "grade": "Sahih",
+   "url": "https://sunnah.com/bukhari:3194",
+   "situation": "When you need hope that mercy wins in the end"
+  }
+ ]
+}
