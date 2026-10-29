@@ -1,0 +1,609 @@
+[
+    {
+        "id":  "ST-001",
+        "title":  "Yunus in the darkness",
+        "situations":  [
+                           "anxiety",
+                           "guilt-tawbah",
+                           "patience"
+                       ],
+        "kind":  "quran_story",
+        "sources":  "Qur\u0027an 21:87-88; 37:139-148",
+        "grade":  "Qur\u0027an",
+        "summary":  "Prophet Yunus left his people in anger and ended up swallowed by a great fish. In layers of darkness he called out to Allah, declaring His oneness, glorifying Him and admitting his own mistake. Allah answered him, rescued him from his distress, and said that He rescues the believers in the same way.",
+        "lesson":  "No darkness is too deep for a sincere call to Allah, and admitting our own fault opens the way out.",
+        "bridge":  "When the user feels trapped, has made a mistake, or feels there is no way out.",
+        "do_not_add":  "Do not state how long he was inside the fish, the species or size of the fish, or other details from Isra\u0027iliyyat. Stay with what the Qur\u0027an says.",
+        "related_dua":  "Library dua from Qur\u0027an 21:87",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Yunus",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-002",
+        "title":  "Musa at the well of Madyan",
+        "situations":  [
+                           "job-rizq",
+                           "money-debt",
+                           "marriage",
+                           "loneliness"
+                       ],
+        "kind":  "quran_story",
+        "sources":  "Qur\u0027an 28:22-28",
+        "grade":  "Qur\u0027an",
+        "summary":  "Musa fled Egypt alone, with nothing. At the wells of Madyan he saw two women waiting with their flock, and he watered it for them. Then he sat in the shade and told Allah that he was in need of whatever good He sent down to him. Soon one of the women came back with her father\u0027s invitation. Musa found safety, then work for several years, and then marriage.",
+        "lesson":  "Do what you can, help others along the way, and ask Allah plainly for what you need. Provision can come from where you least expect it.",
+        "bridge":  "When the user has lost a job, is searching for work, or feels alone in a new place.",
+        "do_not_add":  "The Qur\u0027an does not name the women\u0027s father. Do not state as fact that he was Prophet Shu\u0027ayb.",
+        "related_dua":  "Library ayah Qur\u0027an 28:24 (his dua)",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Musa",
+                              "Egypt",
+                              "Madyan",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-003",
+        "title":  "Fatimah asks for a servant",
+        "situations":  [
+                           "money-debt",
+                           "patience"
+                       ],
+        "kind":  "hadith_story",
+        "sources":  "Sahih al-Bukhari 3113",
+        "grade":  "Sahih",
+        "summary":  "Fatimah\u0027s hands were worn from grinding grain, and she and Ali asked the Prophet ﷺ for a servant. He came to them at night and taught them to say Allahu Akbar 34 times, SubhanAllah 33 times and Alhamdulillah 33 times before sleeping, telling them this was better for them than a servant.",
+        "lesson":  "When resources are tight, remembrance of Allah gives a strength that money cannot.",
+        "bridge":  "When the user is exhausted by work or money pressure.",
+        "do_not_add":  "Do not add details about their household or poverty beyond the hadith.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Fatimah",
+                              "Ali",
+                              "Prophet",
+                              "Allahu Akbar",
+                              "SubhanAllah",
+                              "Alhamdulillah"
+                          ]
+    },
+    {
+        "id":  "ST-004",
+        "title":  "The three men in the cave",
+        "situations":  [
+                           "job-rizq",
+                           "money-debt",
+                           "anxiety"
+                       ],
+        "kind":  "hadith_story",
+        "sources":  "Sahih al-Bukhari 2272",
+        "grade":  "Sahih",
+        "summary":  "Three travellers sheltered in a cave, and a rock rolled down and sealed it. Each man called on Allah by a good deed he had done sincerely: one by his care for his elderly parents, one by stopping himself from a sin, and one by honestly keeping a worker\u0027s unpaid wages, growing them, and giving the worker all of it when he returned. After each prayer the rock moved a little, until they walked out.",
+        "lesson":  "Sincere good deeds, especially honesty with others\u0027 money, are a way out in hardship.",
+        "bridge":  "When the user feels stuck, or is worried about honesty and money at work.",
+        "do_not_add":  "Do not add names, places or extra dialogue.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+
+                          ]
+    },
+    {
+        "id":  "ST-005",
+        "title":  "Ayyub\u0027s patience",
+        "situations":  [
+                           "illness",
+                           "patience"
+                       ],
+        "kind":  "quran_story",
+        "sources":  "Qur\u0027an 21:83-84; 38:41-44",
+        "grade":  "Qur\u0027an",
+        "summary":  "Prophet Ayyub was afflicted with harm. He called on his Lord gently, saying that harm had touched him and that Allah is the Most Merciful of the merciful. Allah removed his affliction, told him to strike the ground with his foot to bring out cool water to wash and drink, and restored his family and more. The Qur\u0027an calls him patient and an excellent servant.",
+        "lesson":  "Patience is not silence. Ayyub told Allah of his pain, and was praised as patient.",
+        "bridge":  "When the user is ill or in long-term pain.",
+        "do_not_add":  "Do not mention the number of years, worms, or stories about his wife; these are not authentic.",
+        "related_dua":  "Library ayah Qur\u0027an 21:83 (his dua)",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Ayyub",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-006",
+        "title":  "Ya\u0027qub\u0027s beautiful patience",
+        "situations":  [
+                           "grief",
+                           "patience",
+                           "family-conflict"
+                       ],
+        "kind":  "quran_story",
+        "sources":  "Qur\u0027an 12:18; 12:83-87",
+        "grade":  "Qur\u0027an",
+        "summary":  "When his sons told him Yusuf was lost, Ya\u0027qub chose \u0027beautiful patience\u0027. Years later, losing another son, he grieved so deeply that his eyes turned white with sorrow. Yet he said he complained of his grief only to Allah, and told his sons to go and search and never to despair of Allah\u0027s mercy.",
+        "lesson":  "Grief and tears are allowed. Bring the grief to Allah, and do not give up hope.",
+        "bridge":  "When the user is grieving or waiting a long time for something to change.",
+        "do_not_add":  "Stay with the Qur\u0027anic account; do not add years or Isra\u0027iliyyat details.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Ya\u0027qub",
+                              "Yusuf",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-007",
+        "title":  "The Prophet\u0027s tears for his son",
+        "situations":  [
+                           "grief"
+                       ],
+        "kind":  "hadith_story",
+        "sources":  "Sahih al-Bukhari 1303",
+        "grade":  "Sahih",
+        "summary":  "When the Prophet\u0027s infant son Ibrahim was dying, tears flowed from his eyes. When asked about it, he said it is mercy, and that the eyes shed tears and the heart grieves, but we say only what pleases our Lord.",
+        "lesson":  "Crying is not weak faith. The Prophet ﷺ grieved, and stayed content with Allah.",
+        "bridge":  "When the user has lost someone, especially a child or family member.",
+        "do_not_add":  "Do not add the age of the child or other details.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Prophet",
+                              "Ibrahim"
+                          ]
+    },
+    {
+        "id":  "ST-008",
+        "title":  "Umm Salamah\u0027s dua at her loss",
+        "situations":  [
+                           "grief",
+                           "marriage"
+                       ],
+        "kind":  "hadith_story",
+        "sources":  "Sahih Muslim 918",
+        "grade":  "Sahih",
+        "summary":  "Umm Salamah learned from the Prophet ﷺ that whoever is struck by a loss and says \u0027To Allah we belong and to Him we return\u0027, asking Allah to reward them and replace it with something better, will be given something better. When her husband Abu Salamah died she said it, though she wondered who could be better than him. Later, the Prophet ﷺ himself proposed to her.",
+        "lesson":  "Say the dua even when you cannot imagine anything better. Allah\u0027s replacement can exceed what we picture.",
+        "bridge":  "When the user has lost a spouse or someone very close.",
+        "do_not_add":  "Do not present the remarriage as a promise to the user; the promise is \u0027something better\u0027, which Allah decides.",
+        "related_dua":  "Library dua from Sahih Muslim 918",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Umm Salamah",
+                              "Prophet",
+                              "Abu Salamah",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-009",
+        "title":  "Hajar in the valley",
+        "situations":  [
+                           "loneliness",
+                           "job-rizq",
+                           "anxiety"
+                       ],
+        "kind":  "hadith_story",
+        "sources":  "Sahih al-Bukhari 3364",
+        "grade":  "Sahih",
+        "summary":  "Ibrahim left Hajar and baby Isma\u0027il in a barren valley. She asked him whether Allah had commanded this, and when he said yes, she said that then Allah would not abandon them. When the water ran out, she ran back and forth between the hills of Safa and Marwa searching, and Allah brought out the water of Zamzam.",
+        "lesson":  "Trust in Allah and effort go together: Hajar trusted, and still ran.",
+        "bridge":  "When the user feels alone, left behind, or is doing everything they can and still waiting.",
+        "do_not_add":  "Do not add the number of days or other details not in the hadith.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Ibrahim",
+                              "Hajar",
+                              "Isma\u0027il",
+                              "Safa",
+                              "Marwa",
+                              "Zamzam",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-010",
+        "title":  "\u0027Do not grieve, Allah is with us\u0027",
+        "situations":  [
+                           "anxiety",
+                           "loneliness"
+                       ],
+        "kind":  "quran_story",
+        "sources":  "Qur\u0027an 9:40; Sahih al-Bukhari 3653",
+        "grade":  "Qur\u0027an / Sahih",
+        "summary":  "During the Hijrah, the Prophet ﷺ and Abu Bakr hid in a cave while those hunting them came close. Abu Bakr feared they would be seen. The Prophet ﷺ reassured him: do not grieve, Allah is with us. Allah sent down tranquillity upon him.",
+        "lesson":  "Fear is human. The answer is remembering that Allah is with you.",
+        "bridge":  "When the user is afraid of something about to happen.",
+        "do_not_add":  "Do not add the spider web or birds\u0027 nest; these come from weak reports.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Prophet",
+                              "Abu Bakr",
+                              "Hijrah",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-011",
+        "title":  "The angel of the mountains",
+        "situations":  [
+                           "anger",
+                           "patience",
+                           "family-conflict"
+                       ],
+        "kind":  "hadith_story",
+        "sources":  "Sahih al-Bukhari 3231",
+        "grade":  "Sahih",
+        "summary":  "Aisha asked the Prophet ﷺ whether he had faced a day harder than Uhud. He described a day he called people to Allah and was rejected, and walked away overwhelmed with sorrow. Jibril came with the angel of the mountains, who offered to crush the people between two mountains. The Prophet ﷺ refused, hoping that their descendants would worship Allah alone.",
+        "lesson":  "When you are rejected or hurt, you can choose mercy and hope over revenge.",
+        "bridge":  "When the user has been rejected, humiliated or hurt by people.",
+        "do_not_add":  "Do not quote the well-known long Ta\u0027if dua (its chain is weak). Do not add stoning details; they are not in this hadith.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Aisha",
+                              "Prophet",
+                              "Uhud",
+                              "Jibril"
+                          ]
+    },
+    {
+        "id":  "ST-012",
+        "title":  "Ka\u0027b ibn Malik tells the truth",
+        "situations":  [
+                           "guilt-tawbah",
+                           "patience"
+                       ],
+        "kind":  "hadith_story",
+        "sources":  "Sahih al-Bukhari 4418; Qur\u0027an 9:118",
+        "grade":  "Sahih / Qur\u0027an",
+        "summary":  "Ka\u0027b ibn Malik stayed behind from the expedition to Tabuk without an excuse. When the Prophet ﷺ returned, Ka\u0027b chose to tell the truth instead of making excuses. He and two others were kept apart from the community for fifty nights, until the earth felt narrow to them. Then Allah revealed that He had accepted their repentance.",
+        "lesson":  "Honesty about a mistake is the start of repentance, and Allah accepts it.",
+        "bridge":  "When the user feels ashamed of a mistake and is tempted to hide or excuse it.",
+        "do_not_add":  "Keep the story short; do not add details beyond the hadith and 9:118.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Ka\u0027b ibn Malik",
+                              "Tabuk",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-013",
+        "title":  "The man who killed a hundred",
+        "situations":  [
+                           "guilt-tawbah"
+                       ],
+        "kind":  "hadith_story",
+        "sources":  "Sahih al-Bukhari 3470; Sahih Muslim 2766",
+        "grade":  "Sahih",
+        "summary":  "A man who had killed many people asked whether repentance was still possible for him. A scholar told him that nothing stands between a person and repentance, and to leave for a land where people worshipped Allah. He died on the way, and because he was nearer to that land, Allah forgave him.",
+        "lesson":  "No sin is too big for Allah\u0027s forgiveness when someone truly turns back.",
+        "bridge":  "When the user believes Allah could never forgive them.",
+        "do_not_add":  "Tell it gently and briefly. Do not dwell on the killings or add numbers beyond the hadith.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-014",
+        "title":  "Adam and Hawwa turn back",
+        "situations":  [
+                           "guilt-tawbah"
+                       ],
+        "kind":  "quran_story",
+        "sources":  "Qur\u0027an 7:23; 2:37",
+        "grade":  "Qur\u0027an",
+        "summary":  "After eating from the tree, Adam and Hawwa did not blame each other or blame Allah. Together they said: our Lord, we have wronged ourselves, and if You do not forgive us and have mercy on us, we will be among the losers. Allah accepted their repentance.",
+        "lesson":  "The first human mistake was followed by the first repentance. Turning back is part of being human.",
+        "bridge":  "When the user feels guilt and does not know how to begin repenting.",
+        "do_not_add":  "Do not blame Hawwa; the Qur\u0027an addresses them both.",
+        "related_dua":  "Library ayah Qur\u0027an 7:23",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Adam",
+                              "Hawwa",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-015",
+        "title":  "Yusuf forgives his brothers",
+        "situations":  [
+                           "family-conflict",
+                           "patience"
+                       ],
+        "kind":  "quran_story",
+        "sources":  "Qur\u0027an 12:89-92",
+        "grade":  "Qur\u0027an",
+        "summary":  "Years after his brothers threw him into a well, Yusuf stood before them as a man of authority, and they came to him in need. When they recognised him, he told them there was no blame on them that day, and asked Allah to forgive them.",
+        "lesson":  "Forgiving family can free you, even after deep hurt.",
+        "bridge":  "When the user is in conflict with family or holding an old hurt.",
+        "do_not_add":  "Do not name the wife of al-Aziz (the name \u0027Zulaikha\u0027 is not from the Qur\u0027an or authentic hadith).",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Yusuf",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-016",
+        "title":  "Abu Bakr keeps supporting Mistah",
+        "situations":  [
+                           "family-conflict",
+                           "anger"
+                       ],
+        "kind":  "hadith_story",
+        "sources":  "Sahih al-Bukhari 4750; Qur\u0027an 24:22",
+        "grade":  "Sahih / Qur\u0027an",
+        "summary":  "Abu Bakr supported his poor relative Mistah, who later took part in spreading slander about Abu Bakr\u0027s daughter Aisha. Hurt, Abu Bakr swore to stop helping him. Allah revealed a verse asking people to pardon and overlook: do you not love that Allah should forgive you? Abu Bakr said that he did, and resumed his support.",
+        "lesson":  "Forgiving a relative who hurt you is a way of asking for Allah\u0027s forgiveness yourself.",
+        "bridge":  "When a relative has wronged the user and they are tempted to cut them off.",
+        "do_not_add":  "Do not retell the slander itself in detail.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Abu Bakr",
+                              "Mistah",
+                              "Aisha",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-017",
+        "title":  "The Bedouin who pulled his cloak",
+        "situations":  [
+                           "anger"
+                       ],
+        "kind":  "hadith_story",
+        "sources":  "Sahih al-Bukhari 3149",
+        "grade":  "Sahih",
+        "summary":  "A Bedouin pulled the Prophet\u0027s cloak so hard that it left a mark on his neck, and demanded to be given from Allah\u0027s wealth. The Prophet ﷺ turned to him, smiled, and ordered that he be given something.",
+        "lesson":  "Answering roughness with gentleness is the Prophet\u0027s way.",
+        "bridge":  "When someone has been rude or aggressive towards the user.",
+        "do_not_add":  "Do not add dialogue beyond the hadith.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Prophet"
+                          ]
+    },
+    {
+        "id":  "ST-018",
+        "title":  "\u0027Do not become angry\u0027",
+        "situations":  [
+                           "anger"
+                       ],
+        "kind":  "hadith_story",
+        "sources":  "Sahih al-Bukhari 6116; Sahih al-Bukhari 6114",
+        "grade":  "Sahih",
+        "summary":  "A man asked the Prophet ﷺ for advice. He said: do not become angry. The man asked again and again, and each time he gave the same answer. He also taught that the strong person is not the one who overpowers others, but the one who controls himself when angry.",
+        "lesson":  "Real strength is self-control in the moment of anger.",
+        "bridge":  "When the user is struggling with anger.",
+        "do_not_add":  "Keep to the meaning of the two hadith.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Prophet"
+                          ]
+    },
+    {
+        "id":  "ST-019",
+        "title":  "Sulayman and the ant",
+        "situations":  [
+                           "gratitude"
+                       ],
+        "kind":  "quran_story",
+        "sources":  "Qur\u0027an 27:18-19",
+        "grade":  "Qur\u0027an",
+        "summary":  "As Sulayman\u0027s army approached, an ant warned the other ants to go into their homes. Sulayman heard it and smiled, and asked Allah to inspire him to be grateful for the blessings given to him and his parents, and to do good that pleases Him.",
+        "lesson":  "Even great blessings call us to gratitude, and small creatures can remind us.",
+        "bridge":  "When the user wants to be more grateful or is in a good moment.",
+        "do_not_add":  "Stay with the Qur\u0027anic text.",
+        "related_dua":  "Library ayah Qur\u0027an 27:19 (his dua)",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Sulayman",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-020",
+        "title":  "\u0027Should I not be a grateful servant?\u0027",
+        "situations":  [
+                           "gratitude"
+                       ],
+        "kind":  "hadith_story",
+        "sources":  "Sahih al-Bukhari 4837",
+        "grade":  "Sahih",
+        "summary":  "The Prophet ﷺ used to stand in night prayer until his feet cracked. Aisha asked why he did this when Allah had forgiven him. He replied: should I not love to be a grateful servant?",
+        "lesson":  "Gratitude is shown in actions, not only words.",
+        "bridge":  "When the user asks how to show gratitude to Allah.",
+        "do_not_add":  "Do not present this as an obligation for the user; it describes the Prophet\u0027s own devotion.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Prophet",
+                              "Aisha"
+                          ]
+    },
+    {
+        "id":  "ST-021",
+        "title":  "Khadijah\u0027s reassurance",
+        "situations":  [
+                           "marriage",
+                           "anxiety"
+                       ],
+        "kind":  "hadith_story",
+        "sources":  "Sahih al-Bukhari 3",
+        "grade":  "Sahih",
+        "summary":  "After the first revelation, the Prophet ﷺ came home trembling and told Khadijah he feared for himself. She comforted him: Allah would never disgrace him, because he kept family ties, carried the burdens of the weak, helped those in need, honoured guests and stood by people in hardship. Then she took him to her cousin Waraqah.",
+        "lesson":  "A spouse can be a place of safety: listening, reminding of the good, and finding help together.",
+        "bridge":  "When the user talks about marriage, or needs reassurance from people close to them.",
+        "do_not_add":  "Do not add details beyond the hadith.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Prophet",
+                              "Khadijah",
+                              "Waraqah",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-022",
+        "title":  "Maryam and the palm tree",
+        "situations":  [
+                           "anxiety",
+                           "loneliness"
+                       ],
+        "kind":  "quran_story",
+        "sources":  "Qur\u0027an 19:22-26",
+        "grade":  "Qur\u0027an",
+        "summary":  "Maryam withdrew alone to a distant place. The pains of childbirth drove her to the trunk of a palm tree, and she wished she had been forgotten. She was told not to grieve: Allah had placed a stream below her, and if she shook the trunk of the palm tree, fresh dates would fall. She was told to eat, drink and be at peace.",
+        "lesson":  "Even at your weakest, Allah asks for a small effort and sends the provision.",
+        "bridge":  "When the user feels alone and overwhelmed by physical or emotional pain.",
+        "do_not_add":  "Stay with the Qur\u0027anic account.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Maryam",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-023",
+        "title":  "Ibrahim and the fire",
+        "situations":  [
+                           "anxiety",
+                           "patience"
+                       ],
+        "kind":  "quran_story",
+        "sources":  "Qur\u0027an 21:68-69; Sahih al-Bukhari 4563",
+        "grade":  "Qur\u0027an / Sahih",
+        "summary":  "When his people threw Ibrahim into a fire, he said: Allah is sufficient for us, and He is the best disposer of affairs. Allah commanded the fire to be cool and safe for Ibrahim.",
+        "lesson":  "Saying \u0027HasbunAllahu wa ni\u0027mal wakil\u0027 is the response of the prophets when afraid.",
+        "bridge":  "When the user faces something frightening that is out of their control.",
+        "do_not_add":  "Do not add the size of the fire, a catapult, or how long it burned.",
+        "related_dua":  "Library item for \u0027HasbunAllahu wa ni\u0027mal wakil\u0027",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Ibrahim",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-024",
+        "title":  "Musa at the sea",
+        "situations":  [
+                           "anxiety"
+                       ],
+        "kind":  "quran_story",
+        "sources":  "Qur\u0027an 26:61-63",
+        "grade":  "Qur\u0027an",
+        "summary":  "When Pharaoh\u0027s army closed in and the sea lay ahead, Musa\u0027s people cried that they were about to be caught. Musa said: no, my Lord is with me, He will guide me. Allah told him to strike the sea with his staff, and it parted.",
+        "lesson":  "When there seems to be no way out, certainty in Allah comes before the way opens.",
+        "bridge":  "When the user feels cornered with no options.",
+        "do_not_add":  "Stay with the Qur\u0027anic account.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Musa",
+                              "Pharaoh",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-025",
+        "title":  "Yusuf in prison and the storehouses",
+        "situations":  [
+                           "job-rizq",
+                           "patience"
+                       ],
+        "kind":  "quran_story",
+        "sources":  "Qur\u0027an 12:36-42; 12:54-56",
+        "grade":  "Qur\u0027an",
+        "summary":  "Yusuf was imprisoned unjustly. In prison he kept helping others, interpreting their dreams and calling them to Allah. Years later the king freed him, and Yusuf asked to be put in charge of the storehouses, saying he was a knowledgeable guardian. Allah established him in the land.",
+        "lesson":  "Keep serving and using your skills, even in a hard place. Your time may come.",
+        "bridge":  "When the user is stuck in a job they dislike or waiting for an opportunity.",
+        "do_not_add":  "Do not add how many years he spent in prison.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Yusuf",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-026",
+        "title":  "Musa asks for ease before a great task",
+        "situations":  [
+                           "exams",
+                           "anxiety"
+                       ],
+        "kind":  "quran_story",
+        "sources":  "Qur\u0027an 20:24-28",
+        "grade":  "Qur\u0027an",
+        "summary":  "When Allah sent Musa to speak to Pharaoh, Musa asked Allah to expand his chest, make his task easy, and loosen the knot in his tongue so people would understand him.",
+        "lesson":  "Before something big, it is prophetic to ask Allah for calm, ease and clear words.",
+        "bridge":  "Before an exam, interview, presentation or difficult conversation.",
+        "do_not_add":  "Stay with the Qur\u0027anic text.",
+        "related_dua":  "Library dua from Qur\u0027an 20:25-28",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Musa",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-027",
+        "title":  "Musa\u0027s journey to seek knowledge",
+        "situations":  [
+                           "exams",
+                           "patience"
+                       ],
+        "kind":  "quran_story",
+        "sources":  "Qur\u0027an 18:60-70",
+        "grade":  "Qur\u0027an",
+        "summary":  "Musa set out to meet a servant of Allah with special knowledge, saying he would not give up until he reached him, even if it took a very long time. When he found him, he asked humbly to follow him and learn.",
+        "lesson":  "Learning needs determination, humility and patience.",
+        "bridge":  "When the user is studying hard or feels discouraged by how much they have to learn.",
+        "do_not_add":  "Keep to the Qur\u0027an; do not add names or details from other sources.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Musa",
+                              "Allah"
+                          ]
+    },
+    {
+        "id":  "ST-028",
+        "title":  "The woman who chose patience",
+        "situations":  [
+                           "illness",
+                           "patience"
+                       ],
+        "kind":  "hadith_story",
+        "sources":  "Sahih al-Bukhari 5652; Sahih Muslim 2576",
+        "grade":  "Sahih",
+        "summary":  "A woman who suffered from seizures asked the Prophet ﷺ to pray for her cure. He offered her a choice: be patient and have Paradise, or he would pray for her cure. She chose patience, and asked only that he pray she would not become uncovered during her seizures, and he did.",
+        "lesson":  "Patience with illness is precious to Allah, and it is also fine to ask for practical help.",
+        "bridge":  "When the user lives with a long-term illness.",
+        "do_not_add":  "Do not suggest the user should refuse treatment. Islam encourages seeking treatment.",
+        "related_dua":  "",
+        "status":  "reviewed",
+        "allowed_names":  [
+                              "Prophet"
+                          ]
+    }
+]

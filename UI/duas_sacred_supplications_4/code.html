@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+
+<html lang="en"><head><meta charset="utf-8"/><meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" name="viewport"/><meta content="mobile_tab" name="shell-type"/><link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet"/>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&amp;family=Amiri:ital,wght@0,400;0,700;1,400&amp;display=swap" rel="stylesheet"/><style>@layer base{html,body{width:100vw;margin:0;padding:0;background-color:#fdf9f2;}body{overscroll-behavior:none;}.pb-safe{padding-bottom:env(safe-area-inset-bottom,0px);}.pt-safe{padding-top:env(safe-area-inset-top,0px);}main>:first-child{margin-top:0!important;}main>:last-child{margin-bottom:0!important;}}::-webkit-scrollbar{display:none;}</style><script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script><script id="tailwind-config">tailwind.config = { darkMode: "class", theme: { extend: { colors: { "primary-fixed-dim": "#97d2c9", "on-background": "#1c1c18", "on-primary-fixed-variant": "#0d5049", "tertiary-fixed": "#dae5e3", "surface-container-high": "#ebe8e1", "on-primary-container": "#97d2c9", "on-tertiary-fixed-variant": "#3e4948", "secondary-fixed-dim": "#ecc064", "on-error-container": "#93000a", "tertiary-container": "#4b5554", "on-secondary-fixed-variant": "#5c4300", "on-tertiary-fixed": "#141d1d", "surface-container-low": "#f7f3ec", "background": "#fdf9f2", "primary-fixed": "#b2eee4", "outline-variant": "#bfc8c6", "surface-dim": "#dddad3", "error-container": "#ffdad6", "on-primary": "#ffffff", "tertiary-fixed-dim": "#bec9c7", "inverse-on-surface": "#f4f0e9", "on-secondary-container": "#785800", "on-secondary-fixed": "#261a00", "surface-tint": "#2d6860", "inverse-surface": "#31302c", "surface-variant": "#e6e2db", "on-surface": "#1c1c18", "on-secondary": "#ffffff", "outline": "#707977", "on-error": "#ffffff", "secondary-container": "#fed173", "secondary-fixed": "#ffdea0", "primary": "#00443e", "surface-container-lowest": "#ffffff", "surface": "#fdf9f2", "on-tertiary": "#ffffff", "surface-bright": "#fdf9f2", "surface-container": "#f1ede6", "on-primary-fixed": "#00201d", "error": "#ba1a1a", "tertiary": "#343e3d", "surface-container-highest": "#e6e2db", "secondary": "#795900", "on-tertiary-container": "#bec9c7", "on-surface-variant": "#404947", "inverse-primary": "#97d2c9", "primary-container": "#1f5c55" }, borderRadius: { "DEFAULT": "0.25rem", "lg": "0.5rem", "xl": "0.75rem", "full": "9999px" }, spacing: { "space-sm": "0.5rem", "gutter": "1rem", "margin": "1rem", "space-xl": "2.5rem", "margin-tablet": "2rem", "space-lg": "1.5rem", "space-xs": "0.25rem", "space-md": "1rem", "margin-desktop": "3rem", "gutter-desktop": "1.5rem" }, fontFamily: { "headline-sm": ["Inter"], "headline-lg-mobile": ["Inter"], "arabic": ["Amiri", "serif"], "label-md": ["Inter"], "body-lg": ["Inter"], "caption": ["Inter"], "headline-md": ["Inter"], "body-md": ["Inter"], "headline-lg": ["Inter"], "body-sm": ["Inter"] }, fontSize: { "headline-sm": ["20px", { lineHeight: "28px", fontWeight: "600" }], "headline-lg-mobile": ["26px", { lineHeight: "34px", letterSpacing: "-0.01em", fontWeight: "600" }], "label-md": ["14px", { lineHeight: "20px", fontWeight: "500" }], "body-lg": ["18px", { lineHeight: "28px", fontWeight: "400" }], "caption": ["13px", { lineHeight: "18px", fontWeight: "500" }], "headline-md": ["24px", { lineHeight: "32px", letterSpacing: "-0.01em", fontWeight: "600" }], "body-md": ["16px", { lineHeight: "26px", fontWeight: "400" }], "headline-lg": ["32px", { lineHeight: "40px", letterSpacing: "-0.02em", fontWeight: "600" }], "body-sm": ["14px", { lineHeight: "22px", fontWeight: "400" }] } } } };</script><style>
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+</head><body class="bg-surface-container-low font-body-md text-body-md text-on-surface antialiased min-h-screen"><header class="fixed top-0 w-full z-50 pt-safe bg-surface-container-lowest/90 backdrop-blur-xl border-b border-surface-container shadow-[0_1px_6px_rgba(31,92,85,0.03)]"><div class="h-16 px-gutter max-w-[390px] mx-auto flex items-center justify-between relative overflow-hidden"><div class="flex items-center justify-center w-full"><span class="font-headline-md text-headline-md text-[#1F5C55] tracking-tight font-semibold text-[22px]">Tasalli</span></div></div></header><main class="w-full max-w-[390px] mx-auto pt-20 pb-24 px-gutter bg-surface-container-low min-h-screen flex flex-col"><div class="flex flex-col w-full pb-8">
+<!-- Search Bar -->
+<div class="relative w-full mb-5">
+<div class="relative flex items-center bg-surface-container-lowest rounded-xl border border-surface-container-high px-3.5 py-3 shadow-[0_2px_8px_rgba(31,92,85,0.03)]">
+<span class="material-symbols-outlined text-outline text-[20px] mr-2.5 select-none">search</span>
+<input aria-label="Search supplications by emotion or topic" class="w-full bg-transparent font-body-sm text-body-sm text-on-surface placeholder:text-outline focus:outline-none" placeholder="Search by emotion or topic (e.g. worry, exams)..." type="text"/>
+<button aria-label="Filter options" class="flex items-center justify-center p-1 rounded-full text-outline hover:text-primary transition-colors">
+<span class="material-symbols-outlined text-[19px]">tune</span>
+</button>
+</div>
+</div>
+<!-- My Dua Plan Section -->
+<div class="w-full mb-6 bg-surface-container-lowest rounded-2xl p-4 border border-surface-container-high shadow-[0_2px_10px_rgba(31,92,85,0.04)] relative overflow-hidden"><div class="flex items-center justify-between mb-3"><div class="flex items-center gap-2"><span class="material-symbols-outlined text-[#1F5C55] text-[20px]">calendar_today</span><h2 class="font-headline-sm text-headline-sm text-[17px] text-[#1F5C55] font-semibold">My Dua Plan</h2></div><span class="font-caption text-caption text-[#1F5C55] bg-[#E3EEEC] px-2.5 py-0.5 rounded-full font-semibold text-[13px]">Active</span></div><p class="font-caption text-caption text-on-surface-variant mb-3 text-[13px] leading-relaxed">Daily supplications saved in your personal routine.</p><div class="flex flex-col gap-2 mb-4 bg-surface-container-low rounded-xl p-3"><div class="flex items-center justify-between py-1 border-b border-surface-container/60"><div class="flex flex-col"><span class="font-caption font-semibold text-on-surface text-[13px]">Supplication of Dhun-Nun</span><span class="text-on-surface-variant text-[13px]">After Fajr prayer</span></div><div class="flex items-center gap-1.5"><span class="w-2 h-2 rounded-full bg-[#B8913A]"></span><span class="w-2 h-2 rounded-full bg-[#B8913A]"></span><span class="w-2 h-2 rounded-full bg-[#B8913A]"></span></div></div><div class="flex items-center justify-between py-1 border-b border-surface-container/60"><div class="flex flex-col"><span class="font-caption font-semibold text-on-surface text-[13px]">Prophetic Refuge from Worry</span><span class="text-on-surface-variant text-[13px]">Morning adhkar</span></div><div class="flex items-center gap-1.5"><span class="w-2 h-2 rounded-full bg-[#B8913A]"></span><span class="w-2 h-2 rounded-full bg-[#B8913A]"></span><span class="w-2 h-2 rounded-full bg-surface-container-highest"></span></div></div><div class="flex items-center justify-between py-1"><div class="flex flex-col"><span class="font-caption font-semibold text-on-surface text-[13px]">For Steadfastness</span><span class="text-on-surface-variant text-[13px]">Evening solace</span></div><div class="flex items-center gap-1.5"><span class="w-2 h-2 rounded-full bg-[#B8913A]"></span><span class="w-2 h-2 rounded-full bg-surface-container-highest"></span><span class="w-2 h-2 rounded-full bg-surface-container-highest"></span></div></div></div><div class="flex items-center justify-between pt-1"><span class="font-caption text-caption text-on-surface-variant text-[13px]">Next: Evening Solace</span><button class="inline-flex items-center gap-1.5 px-3.5 py-1.5 rounded-full bg-[#1F5C55] text-on-primary font-caption text-caption font-medium active:scale-95 transition-all shadow-[0_1px_4px_rgba(31,92,85,0.15)] text-[13px]"><span class="material-symbols-outlined text-[17px]">arrow_forward</span><span>Open plan</span></button></div></div>
+<!-- Filter Chips -->
+<!-- 2-Column Grid: 13 Situations / Categories -->
+<div class="w-full mb-6"><div class="flex items-center justify-between mb-3 px-1"><div class="flex items-center gap-2"><span class="w-1.5 h-4 bg-[#1F5C55] rounded-full"></span><h3 class="font-headline-sm text-headline-sm text-[18px] text-[#1F5C55] font-semibold">Daily Adhkar</h3></div><span class="font-caption text-caption text-on-surface-variant text-[13px]">Sunnah Routine</span></div><div class="grid grid-cols-2 gap-2.5"><button class="flex items-start gap-2.5 p-3.5 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group shadow-[0_1px_4px_rgba(31,92,85,0.03)]"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">wb_twilight</span></div><div class="flex flex-col min-w-0"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors text-[14px] leading-snug">Morning</span><span class="font-caption text-on-surface-variant text-[13px]">Dawn to sunrise</span></div></button><button class="flex items-start gap-2.5 p-3.5 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group shadow-[0_1px_4px_rgba(31,92,85,0.03)]"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">bedtime</span></div><div class="flex flex-col min-w-0"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors text-[14px] leading-snug">Evening</span><span class="font-caption text-on-surface-variant text-[13px]">Asr to Maghrib</span></div></button></div></div><div class="w-full mb-7"><div class="flex items-center justify-between mb-3 px-1"><div class="flex items-center gap-2"><span class="w-1.5 h-4 bg-[#1F5C55] rounded-full"></span><h3 class="font-headline-sm text-headline-sm text-[18px] text-[#1F5C55] font-semibold">Browse by Situation</h3></div><span class="font-caption text-caption text-on-surface-variant text-[13px]">13 Situations</span></div><div class="grid grid-cols-2 gap-2.5"><button class="flex items-start gap-2.5 p-3 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">work</span></div><div class="flex flex-col min-w-0"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors leading-snug text-[13px]">Job &amp; rizq</span><span class="font-caption text-on-surface-variant text-[13px]">Provision &amp; work</span></div></button><button class="flex items-start gap-2.5 p-3 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">account_balance_wallet</span></div><div class="flex flex-col min-w-0"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors leading-snug text-[13px]">Money &amp; debt</span><span class="font-caption text-on-surface-variant text-[13px]">Debt relief</span></div></button><button class="flex items-start gap-2.5 p-3 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">psychology</span></div><div class="flex flex-col min-w-0"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors leading-snug text-[13px]">Anxiety</span><span class="font-caption text-on-surface-variant text-[13px]">Inner peace</span></div></button><button class="flex items-start gap-2.5 p-3 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">heart_broken</span></div><div class="flex flex-col min-w-0"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors leading-snug text-[13px]">Grief</span><span class="font-caption text-on-surface-variant text-[13px]">Loss &amp; comfort</span></div></button><button class="flex items-start gap-2.5 p-3 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">healing</span></div><div class="flex flex-col min-w-0"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors leading-snug text-[13px]">Illness</span><span class="font-caption text-on-surface-variant text-[13px]">Cure &amp; shifa</span></div></button><button class="flex items-start gap-2.5 p-3 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">school</span></div><div class="flex flex-col min-w-0"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors leading-snug text-[13px]">Exams</span><span class="font-caption text-on-surface-variant text-[13px]">Clarity &amp; memory</span></div></button><button class="flex items-start gap-2.5 p-3 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">favorite</span></div><div class="flex flex-col min-w-0"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors leading-snug text-[13px]">Marriage</span><span class="font-caption text-on-surface-variant text-[13px]">Harmony &amp; partner</span></div></button><button class="flex items-start gap-2.5 p-3 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">groups</span></div><div class="flex flex-col min-w-0"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors leading-snug text-[13px]">Family conflict</span><span class="font-caption text-on-surface-variant text-[13px]">Reconciliation</span></div></button><button class="flex items-start gap-2.5 p-3 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">restart_alt</span></div><div class="flex flex-col min-w-0"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors leading-snug text-[13px]">Guilt &amp; tawbah</span><span class="font-caption text-on-surface-variant text-[13px]">Pardon &amp; return</span></div></button><button class="flex items-start gap-2.5 p-3 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">person</span></div><div class="flex flex-col min-w-0"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors leading-snug text-[13px]">Loneliness</span><span class="font-caption text-on-surface-variant text-[13px]">Solace in Allah</span></div></button><button class="flex items-start gap-2.5 p-3 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">sentiment_very_dissatisfied</span></div><div class="flex flex-col min-w-0"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors leading-snug text-[13px]">Anger</span><span class="font-caption text-on-surface-variant text-[13px]">Self-control</span></div></button><button class="flex items-start gap-2.5 p-3 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">sentiment_satisfied</span></div><div class="flex flex-col min-w-0"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors leading-snug text-[13px]">Gratitude</span><span class="font-caption text-on-surface-variant text-[13px]">Shukr &amp; blessings</span></div></button><button class="col-span-2 flex items-center gap-3 p-3 rounded-xl bg-surface-container-lowest border border-surface-container hover:border-[#1F5C55] text-left transition-all group"><div class="w-8 h-8 rounded-lg bg-[#E3EEEC] text-[#1F5C55] flex items-center justify-center shrink-0"><span class="material-symbols-outlined text-[19px]">shield</span></div><div class="flex items-center justify-between w-full"><div class="flex flex-col"><span class="font-caption font-semibold text-on-surface group-hover:text-[#1F5C55] transition-colors leading-snug text-[13px]">Patience in hardship</span><span class="font-caption text-on-surface-variant text-[13px]">Sabr &amp; endurance through tests</span></div><span class="font-caption font-semibold text-[#1F5C55] bg-[#E3EEEC] px-2 py-0.5 rounded-full text-[13px]">13th Topic</span></div></button></div></div>
+<!-- Section Header: Featured Authentic Citations -->
+<div class="flex items-center justify-between mb-3 px-1">
+<div class="flex items-center gap-2">
+<span class="w-1.5 h-4 bg-primary rounded-full"></span>
+<h3 class="font-headline-sm text-headline-sm text-[18px] text-primary">Featured Supplications</h3>
+</div>
+<span class="font-caption text-caption text-on-surface-variant">Verified Sources</span>
+</div>
+<!-- Citation Card 1: Prophet Yunus (Ayah) -->
+<div class="relative w-full bg-surface-container-lowest rounded-2xl p-5 border border-surface-container-high shadow-[0_3px_14px_rgba(31,92,85,0.04)] mb-4 overflow-hidden">
+<!-- Header with Strict Citation Badges -->
+<div class="flex items-center justify-between gap-2 mb-3">
+<div class="flex items-center gap-1.5">
+<span class="font-caption text-caption font-semibold text-primary bg-primary-fixed/50 px-2.5 py-0.5 rounded-full">Ayah</span>
+<span class="font-caption text-caption font-semibold text-on-secondary-fixed bg-secondary-fixed px-2.5 py-0.5 rounded-full">Qur'an</span>
+</div>
+<span class="font-caption text-caption text-on-surface-variant font-medium">Surah Al-Anbiya 21:87</span>
+</div>
+<!-- Title -->
+<h4 class="font-headline-sm text-headline-sm text-[17px] text-primary mb-3">
+      Supplication of Dhun-Nun in Distress
+    </h4>
+<!-- Arabic Text in Amiri -->
+<div class="bg-surface-container-low/70 rounded-xl p-4 mb-3.5 text-right">
+<p class="font-arabic text-[26px] text-primary leading-[2.2] select-all" dir="rtl">
+        لَّا إِلَٰهَ إِلَّا أَنتَ سُبْحَانَكَ إِنِّي كُنتُ مِنَ الظَّالِمِينَ
+      </p>
+</div>
+<!-- English Translation -->
+<p class="font-body-md text-body-md text-on-surface mb-4 leading-relaxed">
+      “There is no deity except You; exalted are You. Indeed, I have been of the wrongdoers.”
+    </p>
+<!-- Verified Source Reference Bar -->
+<div class="flex items-center justify-between pt-3 border-t border-surface-container">
+<div class="flex items-center gap-1.5 text-on-surface-variant">
+<span class="material-symbols-outlined text-[18px] text-primary">verified</span>
+<span class="font-caption text-caption text-on-surface">Surah Al-Anbiya (21:87)</span>
+</div>
+<div class="flex items-center gap-2">
+<button aria-label="Listen recitation" class="w-8 h-8 rounded-full flex items-center justify-center text-primary bg-primary-fixed/40 hover:bg-primary-fixed transition-colors" onclick="toggleAudio(this)">
+<span class="material-symbols-outlined text-[19px]">volume_up</span>
+</button>
+<button aria-label="Bookmark dua" class="w-8 h-8 rounded-full flex items-center justify-center text-on-surface-variant hover:text-primary transition-colors" onclick="toggleBookmark(this)">
+<span class="material-symbols-outlined text-[20px]">bookmark_border</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Citation Card 2: Inner Tranquility (Ayah) -->
+<div class="relative w-full bg-surface-container-lowest rounded-2xl p-5 border border-surface-container-high shadow-[0_3px_14px_rgba(31,92,85,0.04)] mb-4 overflow-hidden">
+<!-- Badges -->
+<div class="flex items-center justify-between gap-2 mb-3">
+<div class="flex items-center gap-1.5">
+<span class="font-caption text-caption font-semibold text-primary bg-primary-fixed/50 px-2.5 py-0.5 rounded-full">Ayah</span>
+<span class="font-caption text-caption font-semibold text-on-secondary-fixed bg-secondary-fixed px-2.5 py-0.5 rounded-full">Qur'an</span>
+</div>
+<span class="font-caption text-caption text-on-surface-variant font-medium">Surah Al-Baqarah 2:250</span>
+</div>
+<h4 class="font-headline-sm text-headline-sm text-[17px] text-primary mb-3">
+      For Steadfastness and Perseverance
+    </h4>
+<!-- Arabic in Amiri -->
+<div class="bg-surface-container-low/70 rounded-xl p-4 mb-3.5 text-right">
+<p class="font-arabic text-[26px] text-primary leading-[2.2] select-all" dir="rtl">
+        رَبَّنَا أَفْرِغْ عَلَيْنَا صَبْرًا وَثَبِّتْ أَقْدَامَنَا وَانصُرْنَا عَلَى الْقَوْمِ الْكَافِرِينَ
+      </p>
+</div>
+<p class="font-body-md text-body-md text-on-surface mb-4 leading-relaxed">
+      “Our Lord, pour upon us patience and plant firmly our feet and give us victory over the disbelieving people.”
+    </p>
+<!-- Verified Source Reference Bar -->
+<div class="flex items-center justify-between pt-3 border-t border-surface-container">
+<div class="flex items-center gap-1.5 text-on-surface-variant">
+<span class="material-symbols-outlined text-[18px] text-primary">verified</span>
+<span class="font-caption text-caption text-on-surface">Surah Al-Baqarah (2:250)</span>
+</div>
+<div class="flex items-center gap-2">
+<button aria-label="Listen recitation" class="w-8 h-8 rounded-full flex items-center justify-center text-primary bg-primary-fixed/40 hover:bg-primary-fixed transition-colors" onclick="toggleAudio(this)">
+<span class="material-symbols-outlined text-[19px]">volume_up</span>
+</button>
+<button aria-label="Bookmark dua" class="w-8 h-8 rounded-full flex items-center justify-center text-on-surface-variant hover:text-primary transition-colors" onclick="toggleBookmark(this)">
+<span class="material-symbols-outlined text-[20px]">bookmark_border</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Citation Card 3: Relief from Anxiety and Sorrow (Dua - Sahih al-Bukhari) -->
+<div class="relative w-full bg-surface-container-lowest rounded-2xl p-5 border border-surface-container-high shadow-[0_3px_14px_rgba(31,92,85,0.04)] mb-4 overflow-hidden">
+<!-- Badges -->
+<div class="flex items-center justify-between gap-2 mb-3">
+<div class="flex items-center gap-1.5">
+<span class="font-caption text-caption font-semibold text-primary bg-primary-fixed/50 px-2.5 py-0.5 rounded-full">Dua</span>
+<span class="font-caption text-caption font-semibold text-[#0f5132] bg-[#d1e7dd] px-2.5 py-0.5 rounded-full">Sahih</span>
+</div>
+<span class="font-caption text-caption text-on-surface-variant font-medium">Sahih al-Bukhari 6363</span>
+</div>
+<h4 class="font-headline-sm text-headline-sm text-[17px] text-primary mb-3">
+      Prophetic Refuge from Worry and Sorrow
+    </h4>
+<!-- Arabic in Amiri -->
+<div class="bg-surface-container-low/70 rounded-xl p-4 mb-3.5 text-right">
+<p class="font-arabic text-[26px] text-primary leading-[2.2] select-all" dir="rtl">
+        اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْهَمِّ وَالْحَزَنِ، وَالْعَجْزِ وَالْكَسَلِ، وَالْبُخْلِ وَالْجُبْنِ، وَضَلَعِ الدَّيْنِ وَغَلَبَةِ الرِّجَالِ
+      </p>
+</div>
+<p class="font-body-md text-body-md text-on-surface mb-4 leading-relaxed">
+      “O Allah, I take refuge in You from anxiety and sorrow, from incapacity and laziness, from miserliness and cowardice, from being overcome by debt and being overpowered by men.”
+    </p>
+<!-- Verified Source Reference Bar -->
+<div class="flex items-center justify-between pt-3 border-t border-surface-container">
+<div class="flex items-center gap-1.5 text-on-surface-variant">
+<span class="material-symbols-outlined text-[18px] text-primary">verified</span>
+<span class="font-caption text-caption text-on-surface">Sahih al-Bukhari 6363</span>
+</div>
+<div class="flex items-center gap-2">
+<button aria-label="Listen recitation" class="w-8 h-8 rounded-full flex items-center justify-center text-primary bg-primary-fixed/40 hover:bg-primary-fixed transition-colors" onclick="toggleAudio(this)">
+<span class="material-symbols-outlined text-[19px]">volume_up</span>
+</button>
+<button aria-label="Bookmark dua" class="w-8 h-8 rounded-full flex items-center justify-center text-on-surface-variant hover:text-primary transition-colors" onclick="toggleBookmark(this)">
+<span class="material-symbols-outlined text-[20px]">bookmark_border</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Citation Card 4: Easing Hardship (Dua - Sahih Ibn Hibban) -->
+<div class="relative w-full bg-surface-container-lowest rounded-2xl p-5 border border-surface-container-high shadow-[0_3px_14px_rgba(31,92,85,0.04)] mb-4 overflow-hidden">
+<!-- Badges -->
+<div class="flex items-center justify-between gap-2 mb-3">
+<div class="flex items-center gap-1.5">
+<span class="font-caption text-caption font-semibold text-primary bg-primary-fixed/50 px-2.5 py-0.5 rounded-full">Dua</span>
+<span class="font-caption text-caption font-semibold text-[#0f5132] bg-[#d1e7dd] px-2.5 py-0.5 rounded-full">Sahih</span>
+</div>
+<span class="font-caption text-caption text-on-surface-variant font-medium">Sahih Ibn Hibban 974</span>
+</div>
+<h4 class="font-headline-sm text-headline-sm text-[17px] text-primary mb-3">
+      Supplication for Making the Difficult Easy
+    </h4>
+<!-- Arabic in Amiri -->
+<div class="bg-surface-container-low/70 rounded-xl p-4 mb-3.5 text-right">
+<p class="font-arabic text-[26px] text-primary leading-[2.2] select-all" dir="rtl">
+        اللَّهُمَّ لَا سَهْلَ إِلَّا مَا جَعَلْتَهُ سَهْلًا، وَأَنْتَ تَجْعَلُ الْحَزْنَ إِذَا شِئْتَ سَهْلًا
+      </p>
+</div>
+<p class="font-body-md text-body-md text-on-surface mb-4 leading-relaxed">
+      “O Allah, there is no ease except what You make easy, and You make hardship, if You wish, easy.”
+    </p>
+<!-- Verified Source Reference Bar -->
+<div class="flex items-center justify-between pt-3 border-t border-surface-container">
+<div class="flex items-center gap-1.5 text-on-surface-variant">
+<span class="material-symbols-outlined text-[18px] text-primary">verified</span>
+<span class="font-caption text-caption text-on-surface">Sahih Ibn Hibban 974</span>
+</div>
+<div class="flex items-center gap-2">
+<button aria-label="Listen recitation" class="w-8 h-8 rounded-full flex items-center justify-center text-primary bg-primary-fixed/40 hover:bg-primary-fixed transition-colors" onclick="toggleAudio(this)">
+<span class="material-symbols-outlined text-[19px]">volume_up</span>
+</button>
+<button aria-label="Bookmark dua" class="w-8 h-8 rounded-full flex items-center justify-center text-on-surface-variant hover:text-primary transition-colors" onclick="toggleBookmark(this)">
+<span class="material-symbols-outlined text-[20px]">bookmark_border</span>
+</button>
+</div>
+</div>
+</div>
+<!-- Citation Card 5: Protection Day and Night (Dua - Sunan Abi Dawud / Hasan) -->
+<div class="relative w-full bg-surface-container-lowest rounded-2xl p-5 border border-surface-container-high shadow-[0_3px_14px_rgba(31,92,85,0.04)] mb-4 overflow-hidden">
+<!-- Badges -->
+<div class="flex items-center justify-between gap-2 mb-3">
+<div class="flex items-center gap-1.5">
+<span class="font-caption text-caption font-semibold text-primary bg-primary-fixed/50 px-2.5 py-0.5 rounded-full">Dua</span>
+<span class="font-caption text-caption font-semibold text-[#664d03] bg-[#fff3cd] px-2.5 py-0.5 rounded-full">Hasan</span>
+</div>
+<span class="font-caption text-caption text-on-surface-variant font-medium">Sunan Abi Dawud 5090</span>
+</div>
+<h4 class="font-headline-sm text-headline-sm text-[17px] text-primary mb-3">
+      Supplication for Complete Well-being and Protection
+    </h4>
+<!-- Arabic in Amiri -->
+<div class="bg-surface-container-low/70 rounded-xl p-4 mb-3.5 text-right">
+<p class="font-arabic text-[26px] text-primary leading-[2.2] select-all" dir="rtl">
+        اللَّهُمَّ إِنِّي أَسْأَلُكَ الْعَافِيَةَ فِي الدُّنْيَا وَالْآخِرَةِ
+      </p>
+</div>
+<p class="font-body-md text-body-md text-on-surface mb-4 leading-relaxed">
+      “O Allah, I ask You for well-being in this world and the Hereafter.”
+    </p>
+<!-- Verified Source Reference Bar -->
+<div class="flex items-center justify-between pt-3 border-t border-surface-container">
+<div class="flex items-center gap-1.5 text-on-surface-variant">
+<span class="material-symbols-outlined text-[18px] text-primary">verified</span>
+<span class="font-caption text-caption text-on-surface">Sunan Abi Dawud 5090</span>
+</div>
+<div class="flex items-center gap-2">
+<button aria-label="Listen recitation" class="w-8 h-8 rounded-full flex items-center justify-center text-primary bg-primary-fixed/40 hover:bg-primary-fixed transition-colors" onclick="toggleAudio(this)">
+<span class="material-symbols-outlined text-[19px]">volume_up</span>
+</button>
+<button aria-label="Bookmark dua" class="w-8 h-8 rounded-full flex items-center justify-center text-on-surface-variant hover:text-primary transition-colors" onclick="toggleBookmark(this)">
+<span class="material-symbols-outlined text-[20px]">bookmark_border</span>
+</button>
+</div>
+</div>
+</div>
+</div>
+<script>
+  function toggleBookmark(btn) {
+    const icon = btn.querySelector('.material-symbols-outlined');
+    if (!icon) return;
+    const isSaved = icon.textContent.trim() === 'bookmark';
+    if (isSaved) {
+      icon.textContent = 'bookmark_border';
+      icon.style.fontVariationSettings = "'FILL' 0";
+      btn.classList.remove('text-primary');
+    } else {
+      icon.textContent = 'bookmark';
+      icon.style.fontVariationSettings = "'FILL' 1";
+      btn.classList.add('text-primary');
+    }
+  }
+
+  function toggleAudio(btn) {
+    const icon = btn.querySelector('.material-symbols-outlined');
+    if (!icon) return;
+    const isPlaying = icon.textContent.trim() === 'pause';
+    if (isPlaying) {
+      icon.textContent = 'volume_up';
+    } else {
+      icon.textContent = 'pause';
+    }
+  }
+</script></main><!-- Bottom Navigation Bar: No dividers, Talk tab visually emphasized, Duas tab active --><nav class="fixed bottom-0 w-full z-50 pb-safe bg-surface-container-lowest/95 backdrop-blur-xl border-t border-surface-container shadow-[0_-2px_12px_rgba(31,92,85,0.05)]" data-active-classes="text-primary font-medium"><div class="h-16 max-w-[390px] mx-auto flex items-center justify-around px-space-xs"><a class="flex flex-col items-center justify-center min-w-[56px] min-h-[44px] py-1 text-on-surface-variant hover:text-[#1F5C55] transition-colors" data-path="today" href="#"><span class="material-symbols-outlined text-[24px]">wb_twilight</span><span class="font-caption text-[13px] leading-tight mt-0.5">Today</span></a><a class="flex flex-col items-center justify-center min-w-[64px] min-h-[44px] py-1 group" data-path="talk" href="#"><div class="w-10 h-10 -mt-3 rounded-full bg-[#1F5C55] text-on-primary flex items-center justify-center shadow-[0_2px_8px_rgba(31,92,85,0.25)] group-active:scale-95 transition-transform"><span class="material-symbols-outlined text-[22px]">chat_bubble</span></div><span class="font-caption text-[13px] font-semibold text-[#1F5C55] leading-tight mt-0.5">Talk</span></a><a aria-current="page" class="flex flex-col items-center justify-center min-w-[56px] min-h-[44px] py-1 transition-colors text-[#1F5C55] font-semibold" data-path="duas" href="#"><span class="material-symbols-outlined text-[24px]" style="font-variation-settings: 'FILL' 1;">menu_book</span><span class="font-caption text-[13px] leading-tight mt-0.5 font-semibold text-[#1F5C55]">Duas</span></a><a class="flex flex-col items-center justify-center min-w-[56px] min-h-[44px] py-1 text-on-surface-variant hover:text-[#1F5C55] transition-colors" data-path="you" href="#"><span class="material-symbols-outlined text-[24px]">person</span><span class="font-caption text-[13px] leading-tight mt-0.5">You</span></a></div></nav></body></html>

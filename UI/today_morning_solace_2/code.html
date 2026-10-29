@@ -1,0 +1,283 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover" name="viewport">
+<meta content="mobile_tab" name="shell-type">
+<link href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:wght,FILL@100..700,0..1&amp;display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Amiri:ital,wght@0,400;0,700;1,400&amp;family=Inter:wght@400;500;600;700&amp;display=swap" rel="stylesheet">
+<script src="https://cdn.tailwindcss.com?plugins=forms,container-queries"></script>
+<script id="tailwind-config">
+    tailwind.config = {
+      darkMode: "class",
+      theme: {
+        extend: {
+          colors: {
+            "primary": "#00443e",
+            "primary-container": "#1f5c55",
+            "primary-fixed": "#b2eee4",
+            "primary-fixed-dim": "#97d2c9",
+            "secondary": "#795900",
+            "secondary-container": "#fed173",
+            "secondary-fixed": "#ffdea0",
+            "secondary-fixed-dim": "#ecc064",
+            "surface": "#ffffff",
+            "background": "#f7f3ec",
+            "surface-container-low": "#f7f3ec",
+            "surface-container": "#f1ede6",
+            "surface-container-high": "#ebe8e1",
+            "surface-container-lowest": "#ffffff",
+            "on-surface": "#1c1c18",
+            "on-surface-variant": "#404947",
+            "outline": "#707977",
+            "outline-variant": "#bfc8c6",
+            "card-border": "#e6e0d6",
+            "caution": "#934b36"
+          },
+          fontFamily: {
+            sans: ["Inter", "sans-serif"],
+            arabic: ["Amiri", "serif"]
+          }
+        }
+      }
+    };
+  </script>
+<style>
+    @layer base {
+      html, body {
+        width: 100vw;
+        margin: 0;
+        padding: 0;
+        background-color: #f7f3ec;
+      }
+      body {
+        overscroll-behavior: none;
+      }
+      .pb-safe {
+        padding-bottom: env(safe-area-inset-bottom, 0px);
+      }
+      .pt-safe {
+        padding-top: env(safe-area-inset-top, 0px);
+      }
+    }
+    ::-webkit-scrollbar {
+      display: none;
+    }
+    body {
+      min-height: max(884px, 100dvh);
+    }
+  </style>
+</head>
+<body class="bg-[#f7f3ec] font-sans text-on-surface antialiased min-h-screen">
+<!-- Header -->
+<header class="fixed top-0 w-full z-50 pt-safe bg-[#f7f3ec]/90 backdrop-blur-md border-b border-[#e6e0d6]/70">
+<div class="h-16 px-4 max-w-[390px] mx-auto flex items-center justify-between relative overflow-hidden">
+<!-- Faint 8-point geometric khatim star watermark (two overlapping squares rotated 45 deg) -->
+
+<div class="flex items-center gap-2.5 z-10">
+<div class="flex flex-col">
+<div class="flex items-baseline gap-2"><span class="text-[22px] font-bold text-primary tracking-tight leading-tight">Tasalli</span></div>
+</div>
+</div>
+</div>
+</header>
+<!-- Main Content Container -->
+<main class="w-full max-w-[390px] mx-auto pt-20 pb-28 px-4 flex flex-col space-y-4">
+<!-- Greeting Section -->
+<div class="relative pt-2">
+<div class="flex items-start justify-between">
+<div class="flex flex-col">
+<span class="text-[13px] text-on-surface-variant flex items-center gap-1.5 font-medium">
+<span class="w-1.5 h-1.5 rounded-full bg-secondary"></span>
+            Tuesday, 14 Sha'ban
+          </span>
+<h1 class="text-[24px] font-bold text-on-surface tracking-tight mt-1 leading-snug">
+            As-salamu alaykum, Kareem
+          </h1>
+</div>
+<!-- Morning Badge -->
+
+</div>
+</div>
+<!-- 1. Prayer Rhythm Card -->
+<section class="bg-surface rounded-[16px] p-4 border border-card-border shadow-sm relative overflow-hidden">
+<div class="flex items-center justify-between mb-3.5">
+<div class="flex items-center gap-2">
+<div class="w-7 h-7 rounded-full bg-primary/10 flex items-center justify-center">
+<span class="material-symbols-outlined text-[18px] text-primary">schedule</span>
+</div>
+<h2 class="text-[15px] font-semibold text-on-surface">Prayer Rhythm</h2>
+</div>
+<div class="flex items-center bg-[#f7f3ec] px-2.5 py-1 rounded-full border border-card-border">
+<span class="text-[13px] text-primary font-medium">Dhuhr in 1h 42m</span>
+</div>
+</div>
+<!-- 5 Prayers Timeline Graphic -->
+<div class="relative pt-1 pb-1">
+<div class="grid grid-cols-5 gap-1 text-center relative">
+<!-- Background connecting thread -->
+<div class="absolute top-[14px] left-[10%] right-[10%] h-[2px] bg-card-border -z-0"></div>
+<!-- Fajr (Completed) -->
+<div class="flex flex-col items-center gap-1">
+<div class="w-7 h-7 rounded-full bg-primary flex items-center justify-center text-white shadow-sm z-10">
+<span class="material-symbols-outlined text-[15px]">check</span>
+</div>
+<span class="text-[13px] text-on-surface-variant font-medium">Fajr</span>
+<span class="text-[13px] text-on-surface-variant/80">5:18 AM</span>
+</div>
+<!-- Dhuhr (Upcoming Active) -->
+<div class="flex flex-col items-center gap-1">
+<div class="w-7 h-7 rounded-full bg-surface flex items-center justify-center shadow-sm z-10 ring-2 ring-primary">
+<span class="w-2.5 h-2.5 rounded-full bg-primary"></span>
+</div>
+<span class="text-[13px] text-primary font-semibold">Dhuhr</span>
+<span class="text-[13px] text-primary font-semibold">12:30 PM</span>
+</div>
+<!-- Asr -->
+<div class="flex flex-col items-center gap-1">
+<div class="w-7 h-7 rounded-full bg-card-border flex items-center justify-center z-10">
+<span class="w-2 h-2 rounded-full bg-outline-variant"></span>
+</div>
+<span class="text-[13px] text-on-surface-variant">Asr</span>
+<span class="text-[13px] text-on-surface-variant/80">3:45 PM</span>
+</div>
+<!-- Maghrib -->
+<div class="flex flex-col items-center gap-1">
+<div class="w-7 h-7 rounded-full bg-card-border flex items-center justify-center z-10">
+<span class="w-2 h-2 rounded-full bg-outline-variant"></span>
+</div>
+<span class="text-[13px] text-on-surface-variant">Maghrib</span>
+<span class="text-[13px] text-on-surface-variant/80">6:12 PM</span>
+</div>
+<!-- Isha -->
+<div class="flex flex-col items-center gap-1">
+<div class="w-7 h-7 rounded-full bg-card-border flex items-center justify-center z-10">
+<span class="w-2 h-2 rounded-full bg-outline-variant"></span>
+</div>
+<span class="text-[13px] text-on-surface-variant">Isha</span>
+<span class="text-[13px] text-on-surface-variant/80">7:35 PM</span>
+</div>
+</div>
+</div>
+</section>
+<!-- 2. Prayer Check-in Card -->
+<section class="bg-surface rounded-[16px] p-4 border border-card-border shadow-sm">
+<div class="flex items-center gap-2 mb-2">
+<span class="material-symbols-outlined text-[20px] text-secondary">notifications_active</span>
+<h3 class="text-[16px] font-semibold text-on-surface">Prayer Check-in</h3>
+</div>
+<p class="text-[15px] text-on-surface-variant mb-4">Fajr time. Have you managed to pray?</p>
+<div class="grid grid-cols-3 gap-2" id="prayer-checkin-group"><button class="checkin-btn flex-1 py-2 px-3 rounded-full bg-primary text-white font-caption text-caption text-[13px] font-semibold text-center transition-all shadow-sm active:scale-95 border border-primary" type="button">Prayed</button><button class="checkin-btn flex items-center justify-center py-2 px-3 rounded-full border border-card-border bg-[#f7f3ec] text-on-surface text-[13px] font-medium hover:border-primary transition-all" type="button">Will do now</button><button class="checkin-btn flex items-center justify-center py-2 px-3 rounded-full border border-card-border bg-[#f7f3ec] text-on-surface text-[13px] font-medium hover:border-primary transition-all" type="button">Not today</button></div>
+</section>
+<!-- 3. This Week's Duas Card -->
+<section class="bg-surface rounded-[16px] p-5 border border-card-border shadow-sm flex flex-col">
+<div class="flex items-center justify-between mb-3">
+<div class="flex items-center gap-2">
+<span class="w-2 h-2 rounded-full bg-secondary"></span>
+<span class="text-[13px] uppercase tracking-wider text-secondary font-semibold">This Week's Duas</span>
+</div>
+<span class="text-[13px] text-on-surface-variant font-medium">Daily remembrance</span>
+</div>
+<!-- Dua Content in Arabic (Amiri) -->
+<div class="py-2.5">
+<p class="font-arabic text-[24px] text-primary text-right leading-[1.85]" dir="rtl">
+          رَبِّ اشْرَحْ لِي صَدْرِي وَيَسِّرْ لِي أَمْرِي
+        </p>
+</div>
+<!-- English Translation & Provenance -->
+<div class="space-y-1.5 mt-2">
+<p class="text-[15px] text-on-surface leading-relaxed">
+          “My Lord, expand for me my chest [with assurance] and ease for me my task.”
+        </p>
+<div class="flex items-center gap-1.5 pt-0.5">
+<span class="px-2 py-0.5 rounded-full bg-[#f7f3ec] border border-card-border text-[13px] text-on-surface-variant font-medium">Qur'an</span>
+<span class="text-[13px] text-on-surface-variant">[ref]</span>
+</div>
+</div>
+<!-- Action Button -->
+<div class="mt-4 pt-1"><div class="flex items-center gap-2"><button class="w-10 h-10 rounded-full bg-[#f1ede6] flex items-center justify-center text-primary hover:bg-primary/20 transition-colors flex-shrink-0" type="button" aria-label="Listen"><span class="material-symbols-outlined text-[22px]">play_arrow</span></button><button class="flex-1 py-3 px-4 rounded-full bg-primary text-white text-[14px] font-medium flex items-center justify-center gap-2 shadow-sm active:opacity-90 transition-all" id="read-dua-btn"><span class="material-symbols-outlined text-[19px]">check_circle</span><span id="read-dua-label" class="">I read it</span></button></div></div>
+</section>
+<!-- 4. Daily Ayah Card -->
+<section class="bg-surface rounded-[16px] p-5 border border-card-border shadow-sm flex flex-col">
+<div class="flex items-center justify-between mb-3">
+<div class="flex items-center gap-2">
+<span class="w-2 h-2 rounded-full bg-secondary"></span>
+<span class="text-[13px] uppercase tracking-wider text-secondary font-semibold">Daily Ayah</span>
+</div>
+<span class="px-2 py-0.5 rounded-full bg-[#f7f3ec] border border-card-border text-[13px] text-primary font-medium">Qur'an</span>
+</div>
+<!-- Arabic Calligraphy in Amiri font -->
+<div class="py-2.5">
+<p class="font-arabic text-[24px] text-primary text-right leading-[1.85]" dir="rtl">
+          أَلَا بِذِكْرِ اللَّهِ تَطْمَئِنُّ الْقُلُوبُ
+        </p>
+</div>
+<!-- Separator Ribbon -->
+<div class="w-full h-px bg-card-border my-2 flex items-center justify-center">
+<span class="bg-surface px-2 text-secondary text-[13px]">◈</span>
+</div>
+<!-- English Translation & Reference -->
+<div class="space-y-1.5">
+<p class="text-[15px] text-on-surface leading-relaxed">
+          “Unquestionably, by the remembrance of Allah hearts are assured.”
+        </p>
+<span class="text-[13px] text-on-surface-variant font-medium block">[ref]</span>
+</div>
+</section>
+<!-- 5. Follow-up Card -->
+<section class="bg-surface rounded-[16px] p-5 border border-card-border shadow-sm flex flex-col">
+<div class="flex items-center gap-2 mb-2">
+<div class="w-7 h-7 rounded-full bg-secondary/15 flex items-center justify-center">
+<span class="material-symbols-outlined text-[18px] text-secondary">forum</span>
+</div>
+<h3 class="text-[16px] font-semibold text-on-surface">Follow-up</h3>
+</div>
+<p class="text-[15px] text-on-surface-variant mb-4">
+        How did the interview go?
+      </p>
+<a class="w-full py-3 px-4 rounded-full bg-[#f7f3ec] border border-card-border text-primary text-[14px] font-semibold flex items-center justify-center gap-2 hover:bg-primary hover:text-white transition-colors" href="#">
+<span class="material-symbols-outlined text-[19px]">chat_bubble_outline</span>
+        Tell Tasalli
+      </a>
+</section>
+</main>
+<!-- Bottom Navigation Bar (No vertical dividers, emphasized Talk tab) -->
+<nav class="fixed bottom-0 w-full z-50 pb-safe bg-surface/95 backdrop-blur-xl border-t border-card-border">
+<div class="h-16 max-w-[390px] mx-auto flex items-center justify-around px-2"><a aria-current="page" class="flex flex-col items-center justify-center min-w-[64px] py-1 text-primary" href="#"><span class="material-symbols-outlined text-[24px]">wb_twilight</span><span class="text-[13px] font-semibold leading-tight mt-0.5">Today</span></a><a class="flex flex-col items-center justify-center min-w-[56px] py-1 -mt-4 relative z-10" data-path="talk" href="#"><div class="w-11 h-11 rounded-full bg-primary shadow-md flex items-center justify-center text-white transition-transform active:scale-95"><span class="material-symbols-outlined text-[24px]">chat_bubble</span></div><span class="font-caption text-caption leading-tight mt-0.5 text-on-surface-variant font-medium text-[13px]">Talk</span></a><a class="flex flex-col items-center justify-center min-w-[64px] py-1 text-on-surface-variant hover:text-primary transition-colors" href="#"><span class="material-symbols-outlined text-[24px]">menu_book</span><span class="text-[13px] font-medium leading-tight mt-0.5">Duas</span></a><a class="flex flex-col items-center justify-center min-w-[64px] py-1 text-on-surface-variant hover:text-primary transition-colors" href="#"><span class="material-symbols-outlined text-[24px]">person</span><span class="text-[13px] font-medium leading-tight mt-0.5">You</span></a></div>
+</nav>
+<script>
+    (function() {
+      // Prayer check-in interactive pill selection
+      const checkinButtons = document.querySelectorAll('.checkin-btn');
+      checkinButtons.forEach(btn => {
+        btn.addEventListener('click', () => {
+          checkinButtons.forEach(b => {
+            b.classList.remove('bg-primary', 'text-white', 'border-primary');
+            b.classList.add('bg-[#f7f3ec]', 'text-on-surface', 'border-card-border');
+          });
+          btn.classList.remove('bg-[#f7f3ec]', 'text-on-surface', 'border-card-border');
+          btn.classList.add('bg-primary', 'text-white', 'border-primary');
+        });
+      });
+
+      // 'I read it' toggle
+      const readBtn = document.getElementById('read-dua-btn');
+      const readLabel = document.getElementById('read-dua-label');
+      let isRead = false;
+      if (readBtn && readLabel) {
+        readBtn.addEventListener('click', () => {
+          isRead = !isRead;
+          if (isRead) {
+            readLabel.textContent = 'Completed for today';
+            readBtn.classList.remove('bg-primary');
+            readBtn.classList.add('bg-secondary');
+          } else {
+            readLabel.textContent = 'I read it';
+            readBtn.classList.remove('bg-secondary');
+            readBtn.classList.add('bg-primary');
+          }
+        });
+      }
+    })();
+  </script>
+
+
+</body></html>
